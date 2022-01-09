@@ -11,3 +11,8 @@ fields:
 - type: text
   name: sidebar_label
   label: sidebar_label
+- name: original_url
+  type: text
+  config:
+    required: false
+  label: Original URL on Instagram
