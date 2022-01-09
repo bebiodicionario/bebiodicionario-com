@@ -1,14 +1,19 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'BEBI O DICIONÁRIO',
+  tagline: 'Firulas visuais enófilas',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR', 'en'],
+  },
+
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'BEBI O DICIONÁRIO',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -22,14 +27,14 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://instagram.com/bebiodicionario',
+          label: 'Instagram',
           position: 'right',
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
         {
           title: 'Docs',
