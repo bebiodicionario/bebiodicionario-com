@@ -20,7 +20,7 @@ sections:
   path: sidebars.json
   label: Sidebar
 upload_dir: ''
-public_path: https://bebiodicionario-com.s3.amazonaws.com
+public_path: https://bebiodicionario-com.s3.sa-east-1.amazonaws.com
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
