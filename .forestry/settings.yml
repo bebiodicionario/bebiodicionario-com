@@ -19,10 +19,10 @@ sections:
 - type: document
   path: sidebars.json
   label: Sidebar
-upload_dir: static/img
-public_path: "/img"
+upload_dir: ''
+public_path: https://bebiodicionario-website.s3.amazonaws.com
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_output_directory: build
