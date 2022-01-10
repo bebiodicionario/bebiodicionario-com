@@ -96,13 +96,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/DirtyF/docusaurus-forestry-starter/edit/master/website/',
+            'https://github.com/bebiodicionario/bebiodicionario-com/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/DirtyF/docusaurus-forestry-starter/edit/master/website/blog/',
+            'https://github.com/bebiodicionario/bebiodicionario-com/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
