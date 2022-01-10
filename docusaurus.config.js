@@ -96,7 +96,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/bebiodicionario/bebiodicionario-com/',
+            'https://github.com/bebiodicionario/bebiodicionario-com/edit/master/',
         },
         blog: {
           showReadingTime: true,
