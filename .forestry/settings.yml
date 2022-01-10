@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: docs/sub
+  label: sub
+  create: all
+  match: "**/*"
+  templates:
+  - page
 - type: document
   path: sidebars.js
   label: New Sidebar
