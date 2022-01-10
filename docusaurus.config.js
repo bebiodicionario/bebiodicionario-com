@@ -16,7 +16,7 @@ module.exports = {
       defaultMode: 'light',
       disableSwitch: true,
       respectPrefersColorScheme: false,
-    }
+    },
     navbar: {
       title: 'BEBI O DICIONÁRIO',
       logo: {
