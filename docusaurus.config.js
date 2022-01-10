@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'bebiodicionario', // Usually your GitHub org/user name.
+  projectName: 'bebiodicionario-com', // Usually your repo name.
 
 
   themeConfig: {
@@ -85,7 +85,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve('./sidebars.json'),
           // Please change this to your repo.
           editUrl:
             'https://github.com/DirtyF/docusaurus-forestry-starter/edit/master/website/',
