@@ -6,7 +6,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'bebiodicionario', // Usually your GitHub org/user name.
   projectName: 'bebiodicionario-com', // Usually your repo name.
-
+  i18n: {
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR', 'en'],
+  },
 
   themeConfig: {
     navbar: {
