@@ -17,7 +17,7 @@ sections:
   create: documents
   match: "*.md"
 - type: document
-  path: sidebars.js
+  path: sidebars.json
   label: Sidebar
 upload_dir: ''
 public_path: https://bebiodicionario-com.s3.sa-east-1.amazonaws.com
