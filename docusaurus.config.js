@@ -12,6 +12,11 @@ module.exports = {
   },
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    }
     navbar: {
       title: 'BEBI O DICIONÁRIO',
       logo: {
@@ -22,7 +27,7 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'O Grande Arquivo de Piadas Enológicas',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
@@ -80,7 +85,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Bebi o Dicionário, construído com Docusaurus.`,
     },
   },
   presets: [
