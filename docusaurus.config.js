@@ -54,13 +54,10 @@ const config = {
       },
       navbar: {
         title: 'BEBI O DICIONÁRIO',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+
         items: [
           {
-		to: 'docs/',
+		to: 'docs/category/o-grande-arquivo-de-piadas-enológicas',
 		activeBasePath: 'docs',
 		label: 'O Grande Arquivo de Piadas Enológicas',
 		position: 'left',
@@ -74,54 +71,16 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Arquivo',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
+        style: 'light',
+
         copyright: `© ${new Date().getFullYear()} Bebi o Dicionário. Construído com Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+
+
     }),
 };
 

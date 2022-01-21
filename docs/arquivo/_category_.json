@@ -2,6 +2,9 @@
   "label": "O Grande Arquivo de Piadas Enológicas",
    collapsed: false,
    collapsible: false,
-
-
+   link: {
+     type: "generated-index",
+     title: "O Grande Arquivo de Piadas Enológicas",
+     description: "Aqui você encontra um compêndio de todos os posts do Bebi o Dicionário, em ordem cronológica. ",
+   },
 }

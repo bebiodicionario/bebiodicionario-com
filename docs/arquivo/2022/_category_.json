@@ -1,5 +1,9 @@
 {
+  label: "2022",
+  collapsed: false,
+  link: {
+    type: "generated-index",
+     title: "Todos os posts de 2022",
 
-   collapsed: false,
-  
+   }
 }
