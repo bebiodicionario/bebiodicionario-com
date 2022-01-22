@@ -131,6 +131,7 @@ main .mega-title-link {
     background-clip: text;
     text-decoration: none;
     color: transparent;
+    display: inline-block;
     background-size: 200% 200%;
         -webkit-animation: Pulse 2s ease infinite;
         -moz-animation: Pulse 2s ease infinite;
@@ -174,7 +175,6 @@ main .mega-title-link:hover {
     font-size: 14vw;
     line-height: 1;
     padding-bottom: .15em}
-    display: inline-block;
 @media screen and (min-width: 768px) {
     .mega-title {
     font-size: 17vw}
