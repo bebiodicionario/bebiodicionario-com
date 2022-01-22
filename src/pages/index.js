@@ -9,19 +9,13 @@ import HomepageFeatures from '../components/HomepageFeatures';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 1min ⏱️
-          </Link>
+    <main id="main">
+      <div class="block landing block-type-banner">
+          <div class="block_inner">
+              <h1 class="mega-title"><a href="docs/category/o-grande-arquivo-de-piadas-enológicas" class="mega-title-link">O grande arquivo de piadas enológicas do Bebi o Dicionário</a></h1>
+          </div>
         </div>
-      </div>
-    </header>
+        </main>
   );
 }
 

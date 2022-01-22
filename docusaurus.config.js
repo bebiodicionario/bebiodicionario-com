@@ -70,11 +70,7 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'light',
 
-        copyright: `© ${new Date().getFullYear()} Bebi o Dicionário. Construído com Docusaurus.`,
-      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
