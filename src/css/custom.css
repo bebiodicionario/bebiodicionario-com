@@ -169,11 +169,12 @@ main .mega-title-link:hover {
 .mega-title {
     margin: auto;
     text-align: center;
-  font-family: bely-display, serif;
+    font-family: bely-display, serif;
     font-weight: 400;
     font-size: 14vw;
     line-height: 1;
     padding-bottom: .15em}
+    display: inline-block;
 @media screen and (min-width: 768px) {
     .mega-title {
     font-size: 17vw}
@@ -184,7 +185,7 @@ main .mega-title-link:hover {
 }
 @media screen and (min-width: 1440px) {
     .mega-title {
-    font-size: 13vw}
+    font-size: 10vw}
 }
 @media screen and (min-width: 1600px) {
     .mega-title {
