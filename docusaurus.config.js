@@ -66,7 +66,7 @@ const config = {
 		label: 'O Grande Arquivo de Piadas Enológicas',
 		position: 'left',
           },
-          {to: '/blog', label: 'Lojinha', position: 'left'},
+          // {to: '/blog', label: 'Lojinha', position: 'left'},
           {
             href: 'https://instagram.com/bebiodicionario',
             label: 'Instagram',
