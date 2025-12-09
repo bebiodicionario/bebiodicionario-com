@@ -1,6 +1,6 @@
 {
   label: "ART-ficial",
-  collapsed: false,
+  collapsed: true,
   link: {
     type: "generated-index",
      title: "Indice de todos os capitulos do quadrinho ART-ficial!",
