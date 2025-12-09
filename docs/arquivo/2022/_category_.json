@@ -1,6 +1,6 @@
 {
   label: "2022",
-  collapsed: false,
+  collapsed: true,
   link: {
     type: "generated-index",
      title: "Todos as imagens de 2022, explicados!",
