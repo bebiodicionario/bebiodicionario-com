@@ -19,9 +19,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 *.backup
-
-*.jpg
 *.mp4
-# *.html
-*.png
-*.srt
+*.jpg
+*.py
