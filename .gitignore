@@ -20,5 +20,6 @@ yarn-debug.log*
 yarn-error.log*
 *.backup
 *.mp4
-*.jpg
+
 *.py
+*.jpg
