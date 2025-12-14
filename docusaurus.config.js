@@ -51,20 +51,25 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-	colorMode: {
-      		defaultMode: 'light',
-      		disableSwitch: true,
-      		respectPrefersColorScheme: false,
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
       navbar: {
         title: 'BEBI O DICIONÁRIO',
 
         items: [
           {
-		to: 'docs/category/o-grande-arquivo-de-piadas-enológicas',
-		activeBasePath: 'docs',
-		label: 'O Grande Arquivo de Piadas Enológicas',
-		position: 'left',
+            to: 'docs/category/o-grande-arquivo-de-piadas-enológicas',
+            activeBasePath: 'docs',
+            label: 'O Grande Arquivo de Piadas Enológicas',
+            position: 'left',
+          },
+          {
+            to: '/random',
+            label: '🎲 Post Aleatório',
+            position: 'left',
           },
           // {to: '/blog', label: 'Lojinha', position: 'left'},
           {
