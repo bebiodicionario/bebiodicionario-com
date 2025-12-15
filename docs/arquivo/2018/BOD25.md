@@ -1,15 +1,17 @@
 ---
 id: BOD025
-title: "#025 Post 25"
-description: "Post original não localizado (midia ausente)."
+title: "#025 Niagara"
+description: "A uva híbrida dos vinhos de garrafão."
 date: 2018-02-20
 tags:
-  - Arquivo
+  - Uva Híbrida
+  - Niagara
+  - Vinho de Mesa
 ---
 
 ### Imagem
 
-![Post 25](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17906950153068696.jpg)
+![Niagara](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17896578991161078.jpg)
 
 ### Legenda
 
@@ -17,11 +19,13 @@ tags:
 
 ## Transcrição
 
-(Imagem não disponível localmente)
+A **NIAGARA** é uma uva híbrida americana (cruzamento de vitis vinifera x vitis lambrusca). Vinhos baratinhos de 10 reais.
+
+Boa sorte.
 
 ## Explicação
 
-(Pendente)
+Define a uva **Niágara**, uma variedade híbrida (Vitis labrusca x Vitis vinifera) muito comum no Brasil para vinhos de mesa baratos. O tom é irônico e desanimador ("Boa sorte"), refletindo a baixa complexidade e qualidade enológica geralmente associada a esses vinhos em comparação aos vitis vinifera puros.
 
 ### Originalmente publicado
 

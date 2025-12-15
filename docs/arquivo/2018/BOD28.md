@@ -1,15 +1,18 @@
 ---
 id: BOD028
-title: "#028 Post 28"
-description: "Post original não localizado (midia ausente)."
+title: "#028 Qvevri"
+description: "Ânforas georgianas e a ancestralidade do vinho."
 date: 2018-02-20
 tags:
-  - Arquivo
+  - Geórgia
+  - Ânfora
+  - Vinho Laranja
+  - Vinho de Talha
 ---
 
 ### Imagem
 
-![Post 28](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17926107481005279.jpg)
+![Qvevri](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17894465245169765.jpg)
 
 ### Legenda
 
@@ -17,11 +20,14 @@ tags:
 
 ## Transcrição
 
-(Imagem não disponível localmente)
+**QVEVRI** são as ânforas milenares de terracota usadas na Geórgia.
+Coloca-se tudo lá dentro: cachos, suco, casca, sementes, gavinhas. São seladas e a fermentação dura meses. Em Portugal, dão o nome de Vinho de Talha.
+
+Virou moda com os vinhos laranjas (ver ESLOVÊNIA, LARANJA).
 
 ## Explicação
 
-(Pendente)
+Define o **Qvevri**, os grandes vasos de barro (ânforas) enterrados usados na Geórgia (berço do vinho) para fermentação e maturação de vinhos com as cascas. O método ancestral georgiano inclui engaços e sementes, resultando em vinhos tânicos e complexos (geralmente laranjas). Menciona o equivalente português, o **Vinho de Talha**, e conecta com a tendência moderna dos Vinhos Laranja.
 
 ### Originalmente publicado
 

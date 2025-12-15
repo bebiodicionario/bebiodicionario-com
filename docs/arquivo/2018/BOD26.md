@@ -1,15 +1,18 @@
+```
 ---
 id: BOD026
-title: "#026 Post 26"
-description: "Post original não localizado (midia ausente)."
+title: "#026 Orgânico"
+description: "Burocracia da certificação orgânica."
 date: 2018-02-20
 tags:
-  - Arquivo
+  - Orgânico
+  - Certificação
+  - Brasil
 ---
 
 ### Imagem
 
-![Post 26](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17921133370009587.jpg)
+![Orgânico](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17926540099029422.jpg)
 
 ### Legenda
 
@@ -17,12 +20,17 @@ tags:
 
 ## Transcrição
 
-(Imagem não disponível localmente)
+Para chamar um vinho de **ORGÂNICO** no Brasil o produtor/importador deve que certificá-lo no IBD.
+
+Burocracia.
+
+Melhor botar um selo de VINHOBÃO (ver WEINGUT).
 
 ## Explicação
 
-(Pendente)
+Critica a burocracia exigida para a certificação de vinhos **orgânicos** no Brasil (via IBD - Instituto Biodinâmico), sugerindo que o excesso de regras desestimula o uso do termo oficial. Propõe, com humor, um selo alternativo ("Vinhobão") e faz referência cruzada ao verbete "Weingut".
 
 ### Originalmente publicado
 
 - Data: 20 de fevereiro de 2018
+```

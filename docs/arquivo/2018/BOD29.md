@@ -1,15 +1,16 @@
 ---
 id: BOD029
-title: "#029 Post 29"
-description: "Post original não localizado (midia ausente)."
+title: "#029 Rótulos"
+description: "A política minimalista do canal."
 date: 2018-02-20
 tags:
-  - Arquivo
+  - Meta
+  - Rótulos
 ---
 
 ### Imagem
 
-![Post 29](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17921350616075902.jpg)
+![Rótulos](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17868086587200122.jpg)
 
 ### Legenda
 
@@ -17,11 +18,13 @@ tags:
 
 ## Transcrição
 
-(Imagem não disponível localmente)
+**RÓTULOS**
+
+Aqui são proibidos.
 
 ## Explicação
 
-(Pendente)
+Um post "meta", definindo a filosofia editorial do canal/página naquele momento: evitar a postagem ou avaliação de rótulos específicos de vinhos comerciais, focando possivelmente na educação, conceitos ou humor, em vez de resenhas de produtos. A brevidade do texto reforça a mensagem direta.
 
 ### Originalmente publicado
 

@@ -1,15 +1,18 @@
 ---
 id: BOD027
-title: "#027 Post 27"
-description: "Post original não localizado (midia ausente)."
+title: "#027 Puttonyos"
+description: "A escala de doçura do Tokaji."
 date: 2018-02-20
 tags:
-  - Arquivo
+  - Hungria
+  - Tokaji
+  - Puttonyos
+  - Açúcar Residual
 ---
 
 ### Imagem
 
-![Post 27](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17923893348007622.jpg)
+![Puttonyos](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17885266633198728.jpg)
 
 ### Legenda
 
@@ -17,11 +20,15 @@ tags:
 
 ## Transcrição
 
-(Imagem não disponível localmente)
+3 **PUTTONYOS** = 60 g/L açúcar residual
+4 **PUTTONYOS** = 90 g/L açúcar residual
+5 **PUTTONYOS** = 120 g/L açúcar residual
+6 **PUTTONYOS** = 150 g/L açúcar residual
+7 **PUTTONYOS** Tokaji da diabetes
 
 ## Explicação
 
-(Pendente)
+Explica a escala **Puttonyos**, usada para medir o nível de açúcar residual (doçura) e concentração nos vinhos **Tokaji Aszú** da Hungria. A lista mostra a progressão de 3 a 6 Puttonyos (a categoria histórica de 7 Puttonyos é rara, hoje equivalente ao Tokaji Eszencia). A última linha ("Tokaji da diabetes") é uma hipérbole humorística sobre a extrema doçura dos níveis mais altos.
 
 ### Originalmente publicado
 

@@ -1,5 +1,5 @@
 ---
-id: 011
+id: bod011
 title: "#011 Bebi o dicionário"
 description: "Manifesto minimalista do projeto."
 date: 2018-02-19
