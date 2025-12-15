@@ -1,0 +1,56 @@
+---
+id: BOD56
+title: "#56 Vinhos do Momento"
+description: "Uma linha do tempo satírica das tendências do mundo do vinho."
+date: 2018-04-22
+tags:
+  - Timeline
+  - Tendências
+  - Humor
+  - História
+---
+
+### Imagem
+
+![Vinhos do Momento](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17939913286037116.jpg)
+
+### Legenda
+
+Bebi o Dicionário voltou, agora na fase Bebi o Almanaque.
+
+## Transcrição
+
+**VINHOS DO MOMENTO**
+
+*   **6.000 a.C** Geórgia e/ou Armênia
+*   **40 a.C.** Muscat de Alexandria
+*   **77 d.C.** IN VINO VERITAS (que obviamente não se aplica ao @bebiodicionario)
+*   **1500** Bubbles!
+*   **1681** Riesling alemão & Sauternes
+*   **1889** Qualquer vinho sobrevivente à filoxera
+*   **1896** Bordeaux
+*   **1910** Sherry, a corruptela de Jerez. Pelo menos Madeira não foi anglicizado.
+*   **1976** California, California, here we come!
+*   **1980** Chardonei e pinô na madeira.
+*   **1982** Qualquer coisa >RP94
+*   **1993** Soy loco por ti, España
+*   **2005** ABC Anything but Chardonnay. Pinot Noir ainda pode.
+*   **2011** Uvas autóctones por vinhateiros voadores
+*   **2016 (1º semestre)** Vinhos laranjas
+*   **2016 (2º semestre)** Qualquer vinho, menos laranja
+*   **2017** Geórgia e/ou Armênia
+*   **2018** Vulcões (Etna, Vesúvio, Tenerife, Santorini)
+*   **2019** Champagne de pequenos produtores; vinhos tintos feitos em Champagne
+*   **2020** Bordeaux 2.0
+*   **2022** Texas, Pernambuco, Dubai
+*   **2036** Finlândia, Sibéria, Nação Inuit
+*   **3036** Pangea 2.0
+*   **3037** Alamos Malbec (comece a estocar, vai valer uma fortuna!)
+
+## Explicação
+
+Um almanaque humorístico que traça a história das "modinhas" do vinho, desde a antiguidade (Geórgia/Armênia) até o futuro distópico. O autor satiriza movimentos como a "parkerização" (1982), a revolta contra Chardonnay (ABC), a obsessão efêmera por vinhos laranjas (2016) e prevê que o aquecimento global levará a viticultura para a Sibéria. A piada final com o "Alamos Malbec" (um vinho de supermercado onipresente) sugere que ele sobreviverá a tudo como uma barata nuclear.
+
+### Originalmente publicado
+
+- Data: 22 de abril de 2018

@@ -1,0 +1,34 @@
+---
+id: BOD18
+title: "#18 Gamay"
+description: "Vinho de churrasco e bananinha."
+date: 2018-02-19
+tags:
+  - Gamay
+  - Beaujolais
+  - Churrasco
+  - Banana
+  - Aromas
+---
+
+### Imagem
+
+![Gamay](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17865895432212841.jpg)
+
+### Legenda
+
+(Sem legenda original recuperada)
+
+## Transcrição
+
+**GAMAY** é lembrado toda santa vez que se fala de vinho para churrasco. Deve ser por causa da bananinha (*ver BANANA*)!
+
+Nota: eu adoro **GAMAY** no churrasco com bananinha.
+
+## Explicação
+
+O post conecta três ideias: 1) A uva Gamay (do Beaujolais) é frequentemente recomendada para churrascos por ser leve e frutada; 2) Vinhos de Gamay feitos com maceração carbônica muitas vezes têm cheiro de banana; 3) "Bananinha" é um corte de carne popular no churrasco. A piada une a característica organoléptica da uva com o corte de carne, justificando ironicamente a harmonização.
+
+### Originalmente publicado
+
+- Data: 19 de fevereiro de 2018

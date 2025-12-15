@@ -1,0 +1,33 @@
+---
+id: BOD19
+title: "#19 Harmonização"
+description: "A definição musical (e irônica) de harmonização."
+date: 2018-02-19
+tags:
+  - Harmonização
+  - Definição
+  - Humor
+  - Blues
+---
+
+### Imagem
+
+![Harmonização](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17899332895178035.jpg)
+
+### Legenda
+
+(Sem legenda original recuperada)
+
+## Transcrição
+
+**HARMONIZAÇÃO** é o ato de soprar numa harmônica num show de blues. Pode ser legal.
+
+Fuja de qualquer outra **HARMONIZAÇÃO**.
+
+## Explicação
+
+Um verbete anti-intellectual que satiriza a obsessão por "harmonização" (combinação de vinho e comida) no mundo do vinho. O autor sugere que a única harmonização válida é a musical (gaita/harmônica), rejeitando a complexidade e as regras estritas da compatibilização enogastronômica.
+
+### Originalmente publicado
+
+- Data: 19 de fevereiro de 2018

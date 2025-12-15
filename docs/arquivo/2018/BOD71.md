@@ -1,0 +1,40 @@
+---
+id: BOD71
+title: "#71 Mapa Tipográfico da França"
+description: "Um mapa da França construído apenas com os nomes de suas regiões vinícolas."
+date: 2018-06-26
+tags:
+  - Mapa
+  - França
+  - Geografia
+  - Design
+  - Tipografia
+---
+
+### Imagem
+
+![Mapa Tipográfico da França](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17915566189197889.jpg)
+
+### Legenda
+
+J&#039;ai bu le dictionnaire (Eu bebi o dicionário).
+
+## Transcrição
+
+*(Imagem composta por palavras posicionadas geograficamente como o mapa da França)*
+
+*   **Norte:** Normandie, Champagne, Alsace
+*   **Oeste:** Bretagne, Loire
+*   **Centro/Leste:** Paris, Bourgogne, Jura, Beaujolais, Lyon, Bugey, Savoie
+*   **Sudoeste/Sul:** Cognac, Bordeaux, Sud-Ouest, Armagnac, Languedoc, Roussillon, Rhône, Provence
+*   **Ilha:** Corse
+
+## Explicação
+
+Um exercício de design gráfico simples e eficaz, educando sobre a geografia do vinho francês.
+Mostra a posição relativa das principais regiões:
+*   **Champagne** e **Alsace** no nordeste frio.
+*   **Bordeaux** no sudoeste atlântico.
+*   **Provence** e **Languedoc** no sul mediterrâneo.
+*   **Bourgogne** e **Rhône** formando a espinha dorsal do leste.
+*   **Jura**, **Savoie** e **Bugey** (região pequena e obscura citada para dar credibilidade *geek*) nos Alpes.

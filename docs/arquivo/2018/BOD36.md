@@ -1,0 +1,33 @@
+---
+id: BOD36
+title: "#36 Zalto"
+description: "A taça cultuada pelos enófilos e a regra de ouro para não quebrá-la."
+date: 2018-02-20
+tags:
+  - Zalto
+  - Taças
+  - Cristal
+  - Humor
+---
+
+### Imagem
+
+![Zalto](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17925797632063754.jpg)
+
+### Legenda
+
+(Sem legenda original recuperada)
+
+## Transcrição
+
+Eu já quebrei taça
+**ZALTO**
+alheia. Moral da história: não deixe ninguém mexer na sua **ZALTO** e não mexa na **ZALTO** de ninguém.
+
+## Explicação
+
+Zalto é uma marca austríaca de taças de cristal soprado artesanalmente, famosa por ser extremamente fina, leve e cara (frequentemente custando mais de €50 a unidade). O post alerta, com base em experiência traumática própria, sobre a fragilidade dessas taças e o risco social/financeiro de manuseá-las.
+
+### Originalmente publicado
+
+- Data: 20 de fevereiro de 2018

@@ -1,0 +1,40 @@
+---
+id: BOD61
+title: "#61 Jantar do Kim"
+description: "O amigo Kim pede ajuda com harmonização para um menu difícil, e a resposta é sempre Jerez."
+date: 2018-05-04
+tags:
+  - Harmonização
+  - Jerez
+  - Humor
+  - Alcachofra
+  - Aspargos
+---
+
+### Imagem
+
+![Jantar do Kim](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17944200919028012.jpg)
+
+### Legenda
+
+A primeira de muitas perguntas cretinas do meu amigo Kim.
+
+## Transcrição
+
+**Estou preparando um jantar para uma ocasião especial. Gostaria de um vinho memorável que combine com a comida. O menu é alcachofra com aspargos e molho de cacau. Qual vinho devo comprar?**
+*Kim K. (São Paulo, Brasil)*
+
+Prezado Kim,
+que cardápio mais cretino desfrutarão seus convidados! Só faltou couve-de-bruxelas para embolar de vez o estômago alheio. Não me convide para esta roubada.
+
+No entanto, vamos adiante com esse exercício de ~~harmonizações~~ junções. Em momentos de tensão enofílica, a resposta é sempre **JEREZ**. Sirva em três taças pequenas, alternando livremente: alcachofra com **Manzanilla** (acidez e frescor); aspargos com **Oloroso** (sabor de nozes e manteiga); molho de cacau com **Cream** (doçura e intensidade).
+
+Pensando bem, pode me convidar.
+
+## Explicação
+
+O personagem "Kim" (provavelmente fictício ou um amigo usado como escada) apresenta um menu "impossível" de harmonizar: alcachofra (cimarina deixa o vinho doce/metálico), aspargos (mercaptanas deixam o vinho vegetal/metálico) e cacau (tanino e gordura). O autor usa isso para ensinar uma lição clássica de sommelière: quando tudo mais falha, o vinho fortificado de Jerez (Sherry) é a solução coringa, devido à sua versatilidade e potência de sabores oxidativos que resistem a alimentos difíceis.
+
+### Originalmente publicado
+
+- Data: 04 de maio de 2018

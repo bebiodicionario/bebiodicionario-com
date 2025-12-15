@@ -1,0 +1,36 @@
+---
+id: BOD53
+title: "#53 Pét-Nat"
+description: "Definição de Pét-Nat e sua relação com a petulância."
+date: 2018-03-24
+tags:
+  - Pét-Nat
+  - Espumante
+  - Natural
+  - Definição
+  - Petulância
+---
+
+### Imagem
+
+![Pét-Nat](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17933450125047612.jpg)
+
+### Legenda
+
+(Sem legenda original recuperada)
+
+## Transcrição
+
+A moda dos vinhos naturalmente frisantes internacionalizou o termo pétillant-naturel, ou **PÉT-NAT** para os íntimos.
+
+**PÉT-NAT + PETULÂNCIA**
+
+O simples fato do termo ter um apelido aponta para uma natural combinação com nossa imodesta **PETULÂNCIA**.
+
+## Explicação
+
+O post define o termo "Pét-Nat" (abreviação de *Pétillant Naturel*, método ancestral de espumantes) e faz um jogo de palavras com "Petulância". A crítica implícita é que a "intimidade" com o termo (usar o apelido) e o consumo desse estilo de vinho muitas vezes vêm acompançados de uma atitude "hipster" ou pretensiosa (petulante) por parte dos bebedores.
+
+### Originalmente publicado
+
+- Data: 24 de março de 2018

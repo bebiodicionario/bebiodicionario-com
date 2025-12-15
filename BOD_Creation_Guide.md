@@ -137,3 +137,56 @@ Para posts antigos que precisam ser migrados ou recuperados, utilizamos os arqui
 
 ### Dica:
 Se a imagem não for encontrada pelo nome do arquivo, tente buscar por trechos da legenda que você já conhece ou palavras-chave visíveis na imagem.
+
+## 6. Fluxo de Trabalho Otimizado (Batch Mode - "The Fast Way")
+
+Para manter a velocidade e consistência (padrão "BOD 100-150"), siga este fluxo para criar múltiplos posts de uma vez:
+
+### 1. Extração em Lote (Metadata First)
+Não procure um por um. Extraia os dados de uma faixa de datas ou IDs de uma só vez usando scripts ou grep no `posts_2.html`.
+*   **Input:** Faixa de datas (ex: "Maio de 2018").
+*   **Output:** Lista com `[ID, Data, Legenda]` para 5 a 10 posts.
+
+### 2. URL Direta (Skip Local Copy)
+Não copie a imagem para a pasta `images/`. Não é necessário.
+*   Verifique se o arquivo existe em `media/other/ID.jpg`.
+*   Se existir, construa a URL S3 diretamente: `https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/ID.jpg`.
+*   Isso economiza comandos de `cp`, `mv` e problemas de caminho.
+
+### 3. Template Unificado (Copy-Paste God)
+Use este esqueleto exato para **todos** os arquivos, mudando apenas os valores variáveis. Não escreva do zero.
+
+```markdown
+---
+id: BODXXX
+title: "#XXX Título"
+description: "Descrição."
+date: YYYY-MM-DD
+tags:
+  - Tag1
+  - Tag2
+---
+
+### Imagem
+
+![Título da Imagem](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/ID_DA_IMAGEM.jpg)
+
+### Legenda
+
+Legenda original do post.
+
+## Transcrição
+
+Descrição detalhada da imagem.
+
+## Explicação
+
+Explicação da piada ou contexto.
+
+### Originalmente publicado
+
+- Data: DD de Mês de YYYY
+```
+
+### 4. Validação em Bloco
+Crie 5 arquivos `.md` de uma vez. Somente depois de criados, revise-os em lote. Isso reduz a troca de contexto entre "codificação" e "escrita criativa".

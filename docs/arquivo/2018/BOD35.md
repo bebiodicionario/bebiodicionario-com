@@ -1,0 +1,33 @@
+---
+id: BOD35
+title: "#35 Yantai-Penglai"
+description: "A principal região vinícola da China e a ascensão do vinho chinês."
+date: 2018-02-20
+tags:
+  - Yantai-Penglai
+  - China
+  - Regiões
+  - Futuro
+---
+
+### Imagem
+
+![Yantai-Penglai](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17933940118019206.jpg)
+
+### Legenda
+
+(Sem legenda original recuperada)
+
+## Transcrição
+
+**YANTAI-PENGLAI**
+é a região chinesa com a maior produção vinícola. A China já é o quinto maior produtor mundial de vinho. Tenho certeza que um dia tomaremos vinhos de
+**烟台蓬莱** (Yantai-Penglai em caracteres chineses)
+
+## Explicação
+
+Um post informativo sobre a emergência da China no cenário mundial do vinho, destacando a região de Yantai-Penglai (na província de Shandong) como um polo produtor. A previsão de que "tomaremos vinhos de lá" reflete o crescimento acelerado da indústria chinesa, apoiada por grandes investimentos e consultores internacionais.
+
+### Originalmente publicado
+
+- Data: 20 de fevereiro de 2018

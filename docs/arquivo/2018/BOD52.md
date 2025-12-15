@@ -1,0 +1,33 @@
+---
+id: BOD52
+title: "#52 Pornô + Porto"
+description: "Uma sugestão de harmonização solitária e sem julgamentos."
+date: 2018-03-13
+tags:
+  - Harmonização
+  - Porto
+  - Humor
+  - Solitude
+---
+
+### Imagem
+
+![Pornô + Porto](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17889557239196162.jpg)
+
+### Legenda
+
+(Sem legenda original recuperada)
+
+## Transcrição
+
+**PORNÔ + PORTO**
+
+Quando não tiver ninguém em casa. Quem vai te julgar por servir uma taçazinha?
+
+## Explicação
+
+Uma piada sobre prazeres solitários. A doçura intensa e o alto teor alcoólico do Vinho do Porto são sugeridos como acompanhamento para outra atividade de "auto-indulgência". O humor reside na quebra do decoro habitual das harmonizações de vinho (que geralmente envolvem comida gourmet e companhia refinada) para um cenário doméstico, privado e "julgável".
+
+### Originalmente publicado
+
+- Data: 13 de março de 2018

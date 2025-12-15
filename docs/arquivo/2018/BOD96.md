@@ -1,0 +1,50 @@
+---
+id: BOD96
+title: "#96 Não Beba Veneno em São Paulo"
+description: "Um roteiro (em duas partes) para beber vinhos naturais e comer bem no centro de São Paulo."
+date: 2018-08-10
+tags:
+  - Roteiro
+  - São Paulo
+  - Vinho Natural
+  - Padaria
+  - Café
+---
+
+### Imagens
+
+![Não Beba Veneno em São Paulo - Parte 1](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17861195677278323.jpg)
+![Não Beba Veneno em São Paulo - Parte 2](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/posts/201808/17969498722053288.jpg)
+
+### Legenda
+
+Inspirado numa história real (o blog `not drinking poison in paris’).
+
+## Transcrição
+
+**NÃO BEBA VENENO EM SÃO PAULO**
+E APROVEITE A OPORTUNIDADE PARA NÃO COMÊ-LO TAMBÉM!
+Correndo o risco de ser pouco inventivo e muito excludente, ofereço meu roteiro de sabadão na metrópole-mor sulamericana.
+
+**Roteiro:**
+1.  **Acorde e cheque a saúde:** Apalpe o fígado e as têmporas. Se ok, abra um **Pét-nat**.
+2.  **Pães:** Acompanhe com pães de padarias artesanais: Flávia (Vila), Maculan, Iza, Tavares, Beth Bakery, Hanny (Futuro Refeitório), Alethea (A Padeira).
+3.  **Vinhos (Meio-dia):** Vá à **De La Croix** conferir a degusta e estocar vinhos biodinâmicos.
+4.  **Almoço:** Vá ao seu restaurante predileto. Leve seu vinho. Ofereça taça ao sommelier/chef. Discorra sobre a rolha. Ganhe sobremesa. Beba **Jerez**. (Se a rolha for cara, quebre a garrafa e fuja - piada).
+5.  **Café:** Beba no Takkø, Little, KOF, Futuro ou OCabral.
+6.  **14h - Sede261:** Passe no Sede261 (Bar de vinhos em Pinheiros).
+7.  **17h - Metrô:** Vá para o centro.
+8.  **República - Fel:** Entre no Fel (bar de drinks clássicos no Copan). Beba drink com Jerez.
+9.  **Beverino:** Saia do Fel (bêbado) e vá ao lado, no Beverino (bar de vinhos naturais/biodinâmicos). Beba de golão. Seja o último cliente.
+10. **Final:** Abra tudo o que comprou na calçada. Ofereça vinho a todos. Apalpe o fígado novamente. Termine com **Champagne**.
+
+## Explicação
+
+Um guia hedonista e "natureba" de São Paulo, focado em estabelecimentos que servem comida de verdade e vinhos naturais (sem veneno/agrotóxicos).
+Cita lugares reais e icônicos da cena gastronômica paulistana de 2018:
+*   **Padarias:** O boom do pão de fermentação natural (levain).
+*   **De La Croix:** Importadora francesa focada em biodinâmicos.
+*   **Cafés Especiais:** A onda do café de qualidade (Takkø, KOF).
+*   **Bares de Vinho:** Sede261 (focado em mulheres sommelières) e Beverino (o templo do vinho natural e comida orgânica).
+*   **Fel:** Bar de coquetelaria clássica.
+O título é uma homenagem ao blog "Not Drinking Poison in Paris", referência mundial em vinhos naturais.

@@ -1,0 +1,38 @@
+---
+id: BOD97
+title: "#97 Dia dos Pais Ampelográficos"
+description: "Uma homenagem genealógica às uvas no Dia dos Pais."
+date: 2018-08-12
+tags:
+  - Humor
+  - Curiosidade
+  - Ampelografia
+  - Genealogia
+  - Dia dos Pais
+---
+
+### Imagem
+
+![Dia dos Pais Ampelográficos](https://bebiodicionario-com.s3-sa-east-1.amazonaws.com/media/other/17941029070149080.jpg)
+
+### Legenda
+
+Se tem gente que reclama de quem parabeniza pais de cão e gato, imagina quando souberem que eu celebro as uvas!
+
+## Transcrição
+
+**FELIZ DIA DOS PAIS AMPELEOGRÁFICOS!**
+
+Parabéns pro **Cabernet Franc** e pro **Sauvignon Blanc**, pais da **Cabernet Sauvignon**!
+
+Felicidades pro **Catarratto** e pro **Moscato de Alexandria**, pais do **Grillo**!
+
+Cumprimentos pro **Pinot** e pro **Gouais Blanc**, pais de uma grande família! Seus filhos Aligoté, Aubin Vert, Auxerrois, Bachet Noir, Beaunoir, Chardonnay, Dameron, Franc Noir de la Haute-Saône, François Noir Femelle, Gamay Blanc Gloriod, Gamay Noir, Gros Bec, Knipperlé, Melon, Mézy, Peurion, Romaine, Romorantin, Roublot, Rubi & Sacy desejam tudo de bom!
+
+## Explicação
+
+Um post nerd de botânica/genética (ampelografia) disfarçado de cartão de Dia dos Pais.
+Revela as parentelas reais das uvas, comprovadas por DNA:
+*   A famosa **Cabernet Sauvignon** é filha de um cruzamento espontâneo entre Cabernet Franc (tinta) e Sauvignon Blanc (branca).
+*   A uva siciliana **Grillo** vem de Catarratto x Moscato.
+*   A família prolífica da **Pinot** (Noir) e **Gouais Blanc** (uma uva quase extinta e desprezada da Idade Média) gerou dezenas de filhos ilustres, incluindo **Chardonnay** e **Gamay**, além de outras obscuras. É o maior caso de sucesso reprodutivo da viticultura!
