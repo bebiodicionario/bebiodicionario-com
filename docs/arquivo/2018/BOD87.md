@@ -1,6 +1,6 @@
 ---
 id: BOD87
-title: "#87 Abuso de Hashtags"
+title: "#087 Abuso de Hashtags"
 description: "Crítica aos 'Winestagrammers' que usam dezenas de hashtags genéricas e contraditórias para ganhar engajamento."
 date: 2018-08-01
 tags:

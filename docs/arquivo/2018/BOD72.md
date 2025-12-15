@@ -1,6 +1,6 @@
 ---
 id: BOD72
-title: "#72 A Melhor Adega"
+title: "#072 A Melhor Adega"
 description: "Uma crítica aos climatizadores caros e uma ode à simplicidade do armazenamento em caixas de papelão."
 date: 2018-07-02
 tags:

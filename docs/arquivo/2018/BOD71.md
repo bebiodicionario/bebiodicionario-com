@@ -1,6 +1,6 @@
 ---
 id: BOD71
-title: "#71 Mapa Tipográfico da França"
+title: "#071 Mapa Tipográfico da França"
 description: "Um mapa da França construído apenas com os nomes de suas regiões vinícolas."
 date: 2018-06-26
 tags:

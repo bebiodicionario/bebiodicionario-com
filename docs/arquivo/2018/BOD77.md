@@ -1,6 +1,6 @@
 ---
 id: BOD77
-title: "#77 Quando Decantar?"
+title: "#077 Quando Decantar?"
 description: "Um guia prático e irônico sobre quando utilizar o decanter."
 date: 2018-07-16
 tags:

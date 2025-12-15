@@ -1,6 +1,6 @@
 ---
 id: BOD68
-title: "#68 Cartotipografia enolusitana"
+title: "#068 Cartotipografia enolusitana"
 description: "Um mapa visual de Portugal formado pelos nomes de suas regiões vinícolas."
 date: 2018-06-02
 tags:

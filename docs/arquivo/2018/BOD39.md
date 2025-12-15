@@ -1,6 +1,6 @@
 ---
 id: BOD39
-title: "#39 Diesel"
+title: "#039 Diesel"
 description: "Aroma de gasolina em Rieslings envelhecidos."
 date: 2018-02-21
 tags:

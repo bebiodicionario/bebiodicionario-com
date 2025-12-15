@@ -1,6 +1,6 @@
 ---
 id: BOD36
-title: "#36 Zalto"
+title: "#036 Zalto"
 description: "A taça cultuada pelos enófilos e a regra de ouro para não quebrá-la."
 date: 2018-02-20
 tags:

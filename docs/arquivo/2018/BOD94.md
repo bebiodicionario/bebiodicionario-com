@@ -1,6 +1,6 @@
 ---
 id: BOD94
-title: "#94 O App Tradutor Enológico"
+title: "#094 O App Tradutor Enológico"
 description: "Um aplicativo que traduz o 'enochatês' rebuscado para a dura realidade e dá conselhos amorosos."
 date: 2018-08-07
 tags:

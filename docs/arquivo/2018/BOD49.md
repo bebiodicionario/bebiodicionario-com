@@ -1,6 +1,6 @@
 ---
 id: BOD49
-title: "#49 Chianti + Cupim"
+title: "#049 Chianti + Cupim"
 description: "Uma harmonização luso-toscana para substituir a Bistecca alla Fiorentina."
 date: 2018-03-04
 tags:

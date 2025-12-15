@@ -1,6 +1,6 @@
 ---
 id: BOD93
-title: "#93 Tecnologia Vintage"
+title: "#093 Tecnologia Vintage"
 description: "Uma sátira aos hipsters que rejeitam novidades em favor de tecnologias obsoletas (Fax, Olivetti, mIRC)."
 date: 2018-08-06
 tags:

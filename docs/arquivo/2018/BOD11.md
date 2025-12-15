@@ -1,6 +1,6 @@
 ---
 id: BOD11
-title: "#11 Bebi o dicionário"
+title: "#011 Bebi o dicionário"
 description: "Manifesto minimalista do projeto."
 date: 2018-02-19
 tags:

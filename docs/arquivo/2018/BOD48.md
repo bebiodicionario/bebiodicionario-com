@@ -1,6 +1,6 @@
 ---
 id: BOD48
-title: "#48 Aligoté + Aligot"
+title: "#048 Aligoté + Aligot"
 description: "Uma tentativa frustrada de harmonização por homofonia."
 date: 2018-03-03
 tags:

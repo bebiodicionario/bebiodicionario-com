@@ -1,6 +1,6 @@
 ---
 id: BOD40
-title: "#40 Tutti Frutti"
+title: "#040 Tutti Frutti"
 description: "Crítica aos rosés industriais com sabor de chiclete."
 date: 2018-02-22
 tags:

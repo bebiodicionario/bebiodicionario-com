@@ -1,6 +1,6 @@
 ---
 id: BOD32
-title: "#32 Uva Tosca"
+title: "#032 Uva Tosca"
 description: "Uma variedade italiana rara com um nome perigoso."
 date: 2018-02-20
 tags:

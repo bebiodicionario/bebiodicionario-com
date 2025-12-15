@@ -1,6 +1,6 @@
 ---
 id: BOD38
-title: "#38 Jabuticaba"
+title: "#038 Jabuticaba"
 description: "Aroma raro em degustações internacionais, mas presente na Garnacha."
 date: 2018-02-21
 tags:

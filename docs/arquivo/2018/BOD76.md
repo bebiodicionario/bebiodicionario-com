@@ -1,6 +1,6 @@
 ---
 id: BOD76
-title: "#76 Fondue + Vinho Branco"
+title: "#076 Fondue + Vinho Branco"
 description: "Dica de harmonização defendendo que vinho branco é a melhor opção para Fondue de queijo."
 date: 2018-07-10
 tags:

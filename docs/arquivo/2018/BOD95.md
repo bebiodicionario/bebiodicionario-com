@@ -1,6 +1,6 @@
 ---
 id: BOD95
-title: "#95 O Fim do Formato?"
+title: "#095 O Fim do Formato?"
 description: "Um post metalinguístico sugerindo o fim dos quadrinhos e do personagem Sergião."
 date: 2018-08-08
 tags:

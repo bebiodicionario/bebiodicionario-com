@@ -1,6 +1,6 @@
 ---
 id: BOD84
-title: "#84 Tudo menos Quadrinhos"
+title: "#084 Tudo menos Quadrinhos"
 description: "Metalinguagem sobre a natureza amadora e improvisada dos quadrinhos do Bebi o Dicionário."
 date: 2018-07-30
 tags:

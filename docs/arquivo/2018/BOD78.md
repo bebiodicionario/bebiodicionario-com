@@ -1,6 +1,6 @@
 ---
 id: BOD78
-title: "#78 Redução"
+title: "#078 Redução"
 description: "Explicação técnica (mas com humor) sobre o defeito de redução em vinhos e seus aromas de ovo podre."
 date: 2018-07-17
 tags:

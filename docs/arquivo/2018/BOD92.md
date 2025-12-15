@@ -1,6 +1,6 @@
 ---
 id: BOD92
-title: "#92 O Biodinamômetro"
+title: "#092 O Biodinamômetro"
 description: "Sergião lança uma invenção para medir o nível de chato-biodinâmico do interlocutor e chamar um Uber."
 date: 2018-08-05
 tags:

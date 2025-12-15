@@ -1,6 +1,6 @@
 ---
 id: BOD86
-title: "#86 O Fim do Château le Merde"
+title: "#086 O Fim do Château le Merde"
 description: "O desfecho trágico do jantar com o vinho fake 'Château le Merde', resultando no término do namoro."
 date: 2018-07-31
 tags:

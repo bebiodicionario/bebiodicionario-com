@@ -1,6 +1,6 @@
 ---
 id: BOD42
-title: "#42 Pimentão"
+title: "#042 Pimentão"
 description: "Aroma característico das pirazinas e o desapego pelos vinhos chilenos."
 date: 2018-02-23
 tags:

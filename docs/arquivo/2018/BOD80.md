@@ -1,6 +1,6 @@
 ---
 id: BOD80
-title: "#80 Não Confunda Alhos com Bugalhos"
+title: "#080 Não Confunda Alhos com Bugalhos"
 description: "Mais uma lista de termos e nomes facilmente confundíveis no mundo do vinho (e fora dele)."
 date: 2018-07-23
 tags:

@@ -1,6 +1,6 @@
 ---
 id: BOD54
-title: "#54 Javali + Jerez"
+title: "#054 Javali + Jerez"
 description: "Uma sugestão de harmonização inusitada mas eficaz."
 date: 2018-03-25
 tags:

@@ -1,6 +1,6 @@
 ---
 id: BOD55
-title: "#55 Democratizar"
+title: "#055 Democratizar"
 description: "Crítica à hipocrisia de quem fala em democratizar o vinho mas coleciona rótulos exclusivos."
 date: 2018-03-28
 tags:

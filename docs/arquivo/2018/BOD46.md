@@ -1,6 +1,6 @@
 ---
 id: BOD46
-title: "#46 Esgotinho"
+title: "#046 Esgotinho"
 description: "Definição do aroma controverso dos vinhos naturais (redução/brett)."
 date: 2018-03-01
 tags:

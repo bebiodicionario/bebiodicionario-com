@@ -1,6 +1,6 @@
 ---
 id: BOD56
-title: "#56 Vinhos do Momento"
+title: "#056 Vinhos do Momento"
 description: "Uma linha do tempo satírica das tendências do mundo do vinho."
 date: 2018-04-22
 tags:

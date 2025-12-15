@@ -1,6 +1,6 @@
 ---
 id: BOD17
-title: "#17 Friulano / Tocai"
+title: "#017 Friulano / Tocai"
 description: "A disputa judicial pelo nome da uva e a referência ao Tokaji."
 date: 2018-02-19
 tags:

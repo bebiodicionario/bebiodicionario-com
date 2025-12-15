@@ -1,6 +1,6 @@
 ---
 id: BOD63
-title: "#63 Blend"
+title: "#063 Blend"
 description: "A definição de Blend no contexto caótico de um final de confraria."
 date: 2018-05-07
 tags:

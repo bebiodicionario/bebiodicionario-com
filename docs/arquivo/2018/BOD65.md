@@ -1,6 +1,6 @@
 ---
 id: BOD65
-title: "#65 Pecorino"
+title: "#065 Pecorino"
 description: "A relação sensorial entre o vinho e o queijo homônimo, ambos chamados Pecorino."
 date: 2018-05-13
 tags:

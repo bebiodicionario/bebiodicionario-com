@@ -1,6 +1,6 @@
 ---
 id: BOD70
-title: "#70 Copa + Copo"
+title: "#070 Copa + Copo"
 description: "Correlação entre países participantes da Copa do Mundo de 2018 e sua produção de vinho."
 date: 2018-06-25
 tags:

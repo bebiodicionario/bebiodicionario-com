@@ -1,6 +1,6 @@
 ---
 id: BOD67
-title: "#67 Foradori"
+title: "#067 Foradori"
 description: "Um trocadilho com 'Fora Doria' para elogiar o vinho Fuoripista, de Elisabetta Foradori."
 date: 2018-05-29
 tags:

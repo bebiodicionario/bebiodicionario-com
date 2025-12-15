@@ -1,6 +1,6 @@
 ---
 id: BOD79
-title: "#79 Carta Monogâmica"
+title: "#079 Carta Monogâmica"
 description: "Crítica aos restaurantes cujas cartas de vinho são dominadas pelo portfólio de uma única importadora."
 date: 2018-07-22
 tags:

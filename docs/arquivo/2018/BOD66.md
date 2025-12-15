@@ -1,6 +1,6 @@
 ---
 id: BOD66
-title: "#66 Vinhobão"
+title: "#066 Vinhobão"
 description: "A criação do selo 'Vinhobão', uma sátira aos sistemas de pontuação de vinhos."
 date: 2018-05-28
 tags:

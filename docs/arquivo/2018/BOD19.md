@@ -1,6 +1,6 @@
 ---
 id: BOD19
-title: "#19 Harmonização"
+title: "#019 Harmonização"
 description: "A definição musical (e irônica) de harmonização."
 date: 2018-02-19
 tags:

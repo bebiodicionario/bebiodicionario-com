@@ -1,6 +1,6 @@
 ---
 id: BOD43
-title: "#43 Gluglu"
+title: "#043 Gluglu"
 description: "Definição do termo 'glou-glou' para vinhos fáceis de beber."
 date: 2018-02-24
 tags:
