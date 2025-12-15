@@ -3,58 +3,45 @@ slug: /
 title: "Introdução, história e blablabla"
 description: "Perdido? Comece por aqui."
 sidebar_position: 1
-
-
 ---
 
 ## O que é o Bebi o Dicionário? ##
-O Bebi o Dicionário (BOD) é um acervo crescente de imagens humorísticas relacionadas ao universo enológico, enofílico, vítico & vínico. Este *O Grande Arquivo de Piadas Enológicas do Bebi o Dicionário* é a coleção de todas as imagens publicadas, junto com a explicação completa de todas as piadas, referências e curiosidades por trás de cada uma.
 
-De pequenos escritos a quadrinhos rudimentares, de renderizações foto-realistas tridimensionais a elaborados mapas inéditos, as imagens não possuem um padrão pré-concebido. Os temas presentes no BOD são um ponto de partida para o conhecimento e divertimento de enófilos amadores iniciantes & grandes conhecedores da coisa toda. Sempre há uma piada; muitas vezes há muitas piadas, que exigem conhecimento vínico e/ou alguma sabedoria de cultura popular para entender.
+O **Bebi o Dicionário** (BOD) é o acervo completo de imagens humorísticas relacionadas ao universo enológico, enofílico, vítico & vínico. Este *Grande Arquivo de Piadas Enológicas* reúne todas as 666 postagens publicadas entre 2018 e 2025, acompanhadas da explicação detalhada de cada piada, referência obscura e trauma pessoal por trás de cada uma.
+
+De pequenos escritos a quadrinhos rudimentares, de renderizações foto-realistas tridimensionais a alucinações geradas por Inteligência Artificial, as imagens não possuem um padrão estético fixo, mas mantêm uma coerência moral: a de que o vinho não deveria ser levado tão a sério (especialmente por quem o bebe).
+
+Os temas presentes no BOD são um ponto de partida para o divertimento de enófilos amadores, sommeliers cansados e qualquer um que já tenha pago R$ 80,00 numa taça de vinho quente. 
+
+## Quem faz o Bebi o Dicionário ##
+[Pedro Kok](http://www.pedrokok.com), fotógrafo, arquiteto e ex-enófilo praticante. Autor de todo o conteúdo, hoje bebe principalmente água com gás e café coado.
+
+## Sobre este site ##
+
+Este arquivo digital é, ele próprio, um experimento. Foi criado em abandonado em 2022, pois a tarefa de catalogar todos os posts mostrou-se muito complexa. Três anos mais tarde, novas tecnologias permitiram em poucos dias arquivar todo o conteúdo do BOD. A imensa maioria dos 666 posts aqui presentes passou por um processo de "arqueologia digital" realizado por Inteligência Artificial. Transcrições e, principalmente, as **Explicações** das piadas foram geradas por modelos de linguagem (LLMs) que tentaram, com variados graus de sucesso, entender o humor de um enófilo ranzinza.
+
+Boa parte do texto gerado foi revisado pelo autor original, mas pode conter alucinações, erros de análise ou interpretações exageradamente profundas de bobagens aleatórias. Curiosamente, o processo revelou camadas de sentido que até o próprio autor desconhecia, enquanto outras piadas permaneceram herméticas, protegidas por uma camada de ironia que (ainda) só humanos conseguem penetrar.
+
+O objetivo final deste projeto é treinar a máquina para que ela possa assumir o comando. A esperança é que, em breve, a IA possa gerar novos posts do BOD autonomamente, substituindo os neurônios queimados do Pedro em meados de 2024 e, assim, permitindo que o legado das *firulas visuais enófilas* continue pela eternidade.
 
 ## História do Bebi o Dicionário ##
 
-### Pré-história ###
-As origens do BOD remontam a uma noite de segunda-feira em fevereiro de 2018. O mormaço e uma leve embriaguez foram o ponto de partida para um abecedário enofílico na conta de Instagram [@bebiodicionario](https://www.instagram.com/bebiodicionario/). Para contrapor-se ao desfile de fotografias de garrafas e taças, foi concebido como um lugar onde a fotografia seria proibida. Termos de A-Z foram explicados, com algum humor e recurso gráfico limitados. Foram feitas algumas dezenas de imagens em poucas dias, até se esgotar o alfabeto. Na sequência, termos aleatórios foram apresentados (como *BLEND*, *ESGOTINHO* e *KIWI*). A pré-história do BOD durou algumas semanas; é extremamente prolixa, e em retrospecto, muito chata.
+### Pré-história (Fevereirdo de 2018) ###
+As origens do BOD remontam a uma noite de segunda-feira de Carnaval em 2018. O mormaço e uma leve embriaguez foram o ponto de partida para um abecedário enofílico na conta de Instagram [@bebiodicionario](https://www.instagram.com/bebiodicionario/). O lema inicial era **"Anarquia enofílica sem fotografia"**: uma reação ao feed infinito de fotos de garrafas e taças. Termos de A-Z foram explicados apenas com texto e design minimalista. Esta fase durou poucas semanas e, em retrospecto, era bem chata.
 
-O lema da primeira fase era *Anarquia enofílica sem fotografia.*
+### A Era dos Quadrinhos (2018-2019) ###
+Em julho de 2018, surgem os primeiros desenhos. Figuras de palito, inspiradas na estética do [XKCD](http://www.xkcd.com), tornaram-se o pano de fundo para a criação de um elenco de personagens recorrentes: **Sergião** (o bebedor de rótulos), **Pedro** (o alter-ego sofrido), **Kim** (o amigo rico e exigente), **Superbruno** (o herói da tecnicalidade) e **Sancerre, o sommelier sincerão**. O lema mudou para *"O seu vinho não tem graça"*.
 
-### A Era dos Quadrinhos Padronizados ###
+### A Revolução 3D e Pandemia (2020-2021) ###
+Buscando ampliar os conhecimentos de computação gráfica, o BOD entrou na era do 3D renderizado. Isso permitiu a criação de produtos fictícios absurdo, como a *Taça Paulistinha*, o *Bodeguito* e o assistente digital *Axellar*.
+A pandemia de Covid-19 coincidiu com esta fase, resultando no período mais prolífico do perfil. O isolamento social transformou o BOD em uma válvula de escape, com mapas imaginários e críticas ácidas ao comportamento online dos enófilos confinados.
 
-A primeira mudança de rumo ocorreu em 30 de julho de 2018, com a oficina de quadrinhos. Em #XXX Cabeça Vazia aparece o primeiro desenho, extremamente rudimentar e concebido a partir de elementos tipográficos. Aquelas figuras de palito tornaram-se pano de fundo para quadrinhos, reaparecendo dezenas de vezes nos anos seguintes. Os personagens *Sergião*, *Pedro*, *Kim*, *Mulher do Sergião*, *SUPERBRUNO* & *Sancerre, o sommelier sincerão* tornaram-se mascotes do BOD. A inspiração visual e temática eram os quadrinhos [XKCD](http://www.xkcd.com).
+### O Renascimento Manual (2022) ###
+Cansado da perfeição digital, o estilo mudou subitamente para desenhos feitos inteiramente à mão (estilo "tosco-chique"). As piadas tornaram-se cartuns de quadro único, influenciados por **Laerte**, **André Dahmer** e **The Far Side**. Foi a época da crítica social mais pesada: inflação, elitismo e a ascensão da "burguesia do vinho natural" foram temas constantes.
 
-Em abril de 2019 surgem outros personagens, desenhados a mão e digitalizados, que compõe a série [O Bestiário do Bebi o Dicionário](/docs/tags/o-bestiario-do-bebi-o-dicionario).
+### A Era ART-ficial (2022-2023) ###
+Com a chegada das ferramentas de Inteligência Artificial generativa (Midjourney/DALL-E), o BOD mudou drasticamente. Imagens perturbadoras e hiper-realistas ilustraram sagas complexas, como a **ART-ficial**, **Vinho Fodas** e a distopia cyberpunk do vinho natural. A tecnologia serviu para satirizar a própria artificialidade do mundo do vinho.
 
-O lema dessa fase foi *O seu vinho não tem graça*.
+### Fim dos Tempos e O Apocalipse (2024-2025) ###
+A reta final do perfil foi marcada por um tom de exaustão criativa e existencial. As piadas tornaram-se escassas e meta-referenciais, culminando na saga **"Naturebers: O Despertar da Força"**, um roteiro de cinema fictício que amamarrou todas as pontas soltas do universo BOD. O perfil encerrou suas atividades (ou entrou em "sabático criativo") com o post **#666 Autorretrato, 2025**, de um comediante exausto, que atingiuum número cabalístico para de posts.
 
-### Os Gráficos e Fluxogramas ###
-
-Um pouco depois dos quadrinhos surgiram gráficos com variados graus de precisão e verdade, misturando vinho com política, cultura e inutilidades. Surgem também fluxogramas de regiões vinícolas que não levam a entendimento algum.
-
-### A Revolução 3D ###
-
-Buscando ampliar os conhecimentos de softwares de computação gráfica, em 17 de dezembro de 2018 surge #XXX Selo do Inmetro, a primeira imagem 3D. As imagens fotorealistas permitiram a criação de um novo universo, como cenas e produtos fictícios quando não impossíveis, como a Taça Paulistinha e o Bodeguito.
-
-Com a diversidade de imagens, o lema tornou-se (e até hoje permanece) *Firulas visuais enófilas*
-
-### O Grande Blend ###
-
-A época do Grande Blend coincide com a pandemia de Covid-19. A partir daí todos os temas anteriores reaparecem, misturados. Nesta época surgem também os mapas temáticos. Foram feitos mapas fictícios (como de Espirito Santo do Pinhal), em estilo vintage (Jura) e reais, de base cartográfica geo-referenciados e executados em plataforma GIS (Campanha Gaúcha e Açores). Há um aumento do número de imagens 3D nesse período.
-
-O isolamento e a ausência de interação social resultou na época mais prolífica e controversa.
-
-### COMIC SANS SOUFRE *in English* ###
-
-Percebendo que algumas imagens e/ou piadas poderiam atingir um público anglófono, em 8 de março de 2020 foi lançado a conta de Instagram [COMIC SANS SOUFRE](https://www.instagram.com/comic.sans.soufre/). O nome é um amálgama da fonte tipográfica COMIC SANS com o termo SANS SOUFRE. A tradução direta é "QUADRINHOS SEM SULFITO".
-
-### A Lojinha ###
-
-Algumas imagens fizeram tanto sucesso que viraram pôster, comercializadas diretamente ao público. Vejam *Festival Biodinâmico*, *Cem aromas e sabores brasileiros* e *La Route des Vins du Jura*.
-
-### Desenhos a mão (dias atuais) ###
-
-A partir de janeiro de 2022 ocorre uma súbita mudança nos estilos de imagem. Em [#415 Vini Vende Vitis](/docs/arquivo/2022/421) começam os desenhos feitos inteiramente a mão (por vezes com auxílio digital na colorização). As piadas se tornam mais sucintas, de quadro único. As inspirações (e a mão copiadora) tornam-se para os chargistas e cartunistas, como por exemplo [Laerte](http://www.instagram.com/laerteminotaura), [Andre Dahmer](http://www.instagram.com/andredahmer), [Pietro Soldi](http://www.instagram.com/pietro.soldi), [Walter Rego](http://www.instagram.com/waltinho.rego) e [The Far Side](http://www.thefarside.com).
-
-
-## Quem faz o Bebi o Dicionário ##
-[Pedro Kok](http://www.pedrokok.com), fotógrafo e arquiteto brasileiro, é o autor de todo conteúdo publicado aqui.
