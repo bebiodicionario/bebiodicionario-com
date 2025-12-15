@@ -1,25 +1,31 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useHistory } from '@docusaurus/router';
 import Layout from '@theme/Layout';
-// Import the generated JSON list
-import posts from './posts.json';
 
 export default function Random() {
     const history = useHistory();
+    const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        if (posts && posts.length > 0) {
-            // Pick a random post
-            const randomIndex = Math.floor(Math.random() * posts.length);
-            const randomPost = posts[randomIndex];
-
-            // Redirect
-            history.push(randomPost);
-        }
-    }, [history]);
+        fetch('/all-posts.json')
+            .then((response) => response.json())
+            .then((posts) => {
+                if (posts.length > 0) {
+                    const randomPost = posts[Math.floor(Math.random() * posts.length)];
+                    // Remove /docs/ prefix if present in the JSON, or ensure it's correct
+                    history.push(randomPost);
+                } else {
+                    setLoading(false);
+                }
+            })
+            .catch((err) => {
+                console.error('Failed to fetch random posts', err);
+                setLoading(false);
+            });
+    }, []);
 
     return (
-        <Layout title="Random Post" description="Redirecting to a random definition...">
+        <Layout title="Post Aleatório" description="Redirecionando para um post aleatório...">
             <div
                 style={{
                     display: 'flex',
@@ -28,7 +34,7 @@ export default function Random() {
                     height: '50vh',
                     fontSize: '20px',
                 }}>
-                <p>Girando a garrafa... 🍾</p>
+                {loading ? 'Sorteando um post...' : 'Não foi possível encontrar posts.'}
             </div>
         </Layout>
     );

@@ -1,4 +1,3 @@
-```
 ---
 id: BOD023
 title: "#023 Laranja"

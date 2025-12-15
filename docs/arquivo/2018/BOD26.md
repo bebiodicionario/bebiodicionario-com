@@ -1,4 +1,3 @@
-```
 ---
 id: BOD026
 title: "#026 Orgânico"
