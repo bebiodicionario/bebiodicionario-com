@@ -1,5 +1,5 @@
 ---
-id: BOD96
+id: BOD096
 title: "#096 Não Beba Veneno em São Paulo"
 description: "Um roteiro (em duas partes) para beber vinhos naturais e comer bem no centro de São Paulo."
 date: 2018-08-10

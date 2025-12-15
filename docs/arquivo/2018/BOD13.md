@@ -1,5 +1,5 @@
 ---
-id: BOD13
+id: BOD013
 title: "#013 Banana"
 description: "Aroma característico da maceração carbônica no Beaujolais."
 date: 2018-02-19

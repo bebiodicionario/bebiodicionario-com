@@ -1,5 +1,5 @@
 ---
-id: BOD69
+id: BOD069
 title: "#069 Cariñena (Carignan)"
 description: "Uma memória afetiva sobre um vinho industrial de Cariñena e a relação entre qualidade técnica e prazer."
 date: 2018-06-13

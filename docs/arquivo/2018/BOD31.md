@@ -1,5 +1,5 @@
 ---
-id: BOD31
+id: BOD031
 title: "#031 Temperatura"
 description: "Guia rápido e prático para servir vinhos."
 date: 2018-02-20

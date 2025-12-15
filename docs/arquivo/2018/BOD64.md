@@ -1,5 +1,5 @@
 ---
-id: BOD64
+id: BOD064
 title: "#064 Dolomítico"
 description: "Homenagem ao termo Dolomítico e ao evento de mesmo nome."
 date: 2018-05-12

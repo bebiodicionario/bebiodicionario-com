@@ -1,5 +1,5 @@
 ---
-id: BOD83
+id: BOD083
 title: "#083 Não Confunda Alhos com Bugalhos"
 description: "Uma lista de termos enológicos (e outros nem tanto) que começam com 'S' e causam confusão sonora."
 date: 2018-07-28

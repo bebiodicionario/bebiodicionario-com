@@ -1,5 +1,5 @@
 ---
-id: BOD47
+id: BOD047
 title: "#047 Mercurey"
 description: "Aproveitando o Mercúrio Retrógrado para beber Borgonha barato."
 date: 2018-03-02

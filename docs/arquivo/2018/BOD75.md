@@ -1,5 +1,5 @@
 ---
-id: BOD75
+id: BOD075
 title: "#075 Um Porcento (ABC)"
 description: "Crítica ao movimento 'Anything But Chardonnay' e defesa da uva rainha dos brancos."
 date: 2018-07-09

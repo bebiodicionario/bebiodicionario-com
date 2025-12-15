@@ -1,5 +1,5 @@
 ---
-id: BOD59
+id: BOD059
 title: "#059 Sommelier Líquido"
 description: "Definição poética do 'sommelier líquido', aquele vinho que se adapta a tudo e a todos."
 date: 2018-04-28

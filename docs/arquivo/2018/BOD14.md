@@ -1,5 +1,5 @@
 ---
-id: BOD14
+id: BOD014
 title: "#014 Casta"
 description: "Definição de casta e o esnobismo implícito no termo 'nobre'."
 date: 2018-02-19

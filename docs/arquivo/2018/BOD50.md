@@ -1,5 +1,5 @@
 ---
-id: BOD50
+id: BOD050
 title: "#050 Oregon Pinot + Oregano"
 description: "Uma analogia fonética e climática sobre o Pinot Noir do Oregon."
 date: 2018-03-11

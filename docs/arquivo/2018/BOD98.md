@@ -1,5 +1,5 @@
 ---
-id: BOD98
+id: BOD098
 title: "#098 Probabilidade de Escolha pelo Rótulo"
 description: "Um infográfico classificando a probabilidade de compra baseada em termos impressos no rótulo."
 date: 2018-08-13

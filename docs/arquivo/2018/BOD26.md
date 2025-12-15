@@ -1,5 +1,5 @@
 ---
-id: BOD26
+id: BOD026
 title: "#026 Post 26"
 description: "Post original não localizado (midia ausente)."
 date: 2018-02-20

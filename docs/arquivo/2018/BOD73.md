@@ -1,5 +1,5 @@
 ---
-id: BOD73
+id: BOD073
 title: "#073 Beber Sozinho no Restaurante"
 description: "Regras de etiqueta (irônicas) para quem tem a coragem de beber uma garrafa inteira sozinho em público."
 date: 2018-07-02

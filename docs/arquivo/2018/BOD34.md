@@ -1,5 +1,5 @@
 ---
-id: BOD34
+id: BOD034
 title: "#034 Xarel·lo"
 description: "A uva do Cava com o nome mais gramaticalmente curioso."
 date: 2018-02-20

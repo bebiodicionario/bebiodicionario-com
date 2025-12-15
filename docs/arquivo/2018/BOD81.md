@@ -1,5 +1,5 @@
 ---
-id: BOD81
+id: BOD081
 title: "#081 TOP"
 description: "Sátira ao uso excessivo e irritante da gíria 'TOP' no mundo do vinho."
 date: 2018-07-25

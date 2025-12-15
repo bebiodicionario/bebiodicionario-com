@@ -1,5 +1,5 @@
 ---
-id: BOD30
+id: BOD030
 title: "#030 Sauvignon Blanc"
 description: "Xixi de gato e a defesa felina."
 date: 2018-02-20

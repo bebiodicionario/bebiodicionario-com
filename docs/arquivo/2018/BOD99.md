@@ -1,5 +1,5 @@
 ---
-id: BOD99
+id: BOD099
 title: "#099 O Novo Consumidor quer Drama"
 description: "Crítica à tendência de valorizar histórias e rótulos emotivos em detrimento da qualidade técnica do vinho."
 date: 2018-08-15

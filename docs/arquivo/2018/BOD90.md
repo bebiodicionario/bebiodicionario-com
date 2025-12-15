@@ -1,5 +1,5 @@
 ---
-id: BOD90
+id: BOD090
 title: "#090 Nuvinho: Startup de Vinho na Nuvem"
 description: "A primeira startup genial de Sergião: armazenar vinho na nuvem (literalmente)."
 date: 2018-08-04

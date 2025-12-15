@@ -1,5 +1,5 @@
 ---
-id: BOD88
+id: BOD088
 title: "#088 Château le Merde: Cuvée du Divorce"
 description: "Apresentação de um vinho fictício horrível, satirizando prêmios, pontuações altas e a narrativa exagerada de exclusividade."
 date: 2018-08-02

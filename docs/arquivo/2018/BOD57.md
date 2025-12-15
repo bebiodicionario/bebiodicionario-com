@@ -1,5 +1,5 @@
 ---
-id: BOD57
+id: BOD057
 title: "#057 Confraria"
 description: "Definição satírica das confrarias de vinho e seus rituais de exibicionismo e sofrimento."
 date: 2018-04-22

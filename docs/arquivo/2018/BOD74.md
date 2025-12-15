@@ -1,5 +1,5 @@
 ---
-id: BOD74
+id: BOD074
 title: "#074 A Vingança do Liebfraumilch"
 description: "Curiosidade histórica mostrando que o hoje infame Liebfraumilch já foi considerado um dos grandes vinhos do mundo no século XIX."
 date: 2018-07-04

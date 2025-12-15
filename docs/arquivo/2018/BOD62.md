@@ -1,5 +1,5 @@
 ---
-id: BOD62
+id: BOD062
 title: "#062 Teutônico"
 description: "Um guia rápido para entender os nomes alemães das uvas da família Pinot."
 date: 2018-05-06

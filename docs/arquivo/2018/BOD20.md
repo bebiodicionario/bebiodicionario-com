@@ -1,5 +1,5 @@
 ---
-id: BOD20
+id: BOD020
 title: "#020 Irouléguy"
 description: "Vinhos do País Basco francês e seus nomes impronunciáveis."
 date: 2018-02-19

@@ -1,5 +1,5 @@
 ---
-id: BOD58
+id: BOD058
 title: "#058 Ode ao Riesling"
 description: "Uma declaração de amor incondicional à uva Riesling e sua versatilidade."
 date: 2018-04-23

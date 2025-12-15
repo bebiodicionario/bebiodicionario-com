@@ -1,5 +1,5 @@
 ---
-id: BOD82
+id: BOD082
 title: "#082 Asteróides Enófilos"
 description: "Uma lista real de asteróides batizados com nomes ligados ao vinho."
 date: 2018-07-27

@@ -1,5 +1,5 @@
 ---
-id: BOD60
+id: BOD060
 title: "#060 Orgânico vs Biodinâmico"
 description: "A resposta à pergunta da Gabrila sobre a diferença entre vinhos orgânicos e biodinâmicos."
 date: 2018-05-01

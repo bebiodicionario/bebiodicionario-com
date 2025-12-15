@@ -1,5 +1,5 @@
 ---
-id: BOD18
+id: BOD018
 title: "#018 Gamay"
 description: "Vinho de churrasco e bananinha."
 date: 2018-02-19

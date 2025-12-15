@@ -1,5 +1,5 @@
 ---
-id: BOD51
+id: BOD051
 title: "#051 Banana"
 description: "Como usar o aroma de banana para parecer um especialista instantâneo em Beaujolais."
 date: 2018-03-11

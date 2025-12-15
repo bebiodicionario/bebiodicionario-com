@@ -1,5 +1,5 @@
 ---
-id: BOD61
+id: BOD061
 title: "#061 Jantar do Kim"
 description: "O amigo Kim pede ajuda com harmonização para um menu difícil, e a resposta é sempre Jerez."
 date: 2018-05-04
