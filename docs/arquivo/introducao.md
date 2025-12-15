@@ -53,7 +53,7 @@ Algumas imagens fizeram tanto sucesso que viraram pôster, comercializadas diret
 
 ### Desenhos a mão (dias atuais) ###
 
-A partir de janeiro de 2022 ocorre uma súbita mudança nos estilos de imagem. Em [#421 Vini Vende Vitis](/docs/arquivo/2022/421) começam os desenhos feitos inteiramente a mão (por vezes com auxílio digital na colorização). As piadas se tornam mais sucintas, de quadro único. As inspirações (e a mão copiadora) tornam-se para os chargistas e cartunistas, como por exemplo [Laerte](http://www.instagram.com/laerteminotaura), [Andre Dahmer](http://www.instagram.com/andredahmer), [Pietro Soldi](http://www.instagram.com/pietro.soldi), [Walter Rego](http://www.instagram.com/waltinho.rego) e [The Far Side](http://www.thefarside.com).
+A partir de janeiro de 2022 ocorre uma súbita mudança nos estilos de imagem. Em [#415 Vini Vende Vitis](/docs/arquivo/2022/421) começam os desenhos feitos inteiramente a mão (por vezes com auxílio digital na colorização). As piadas se tornam mais sucintas, de quadro único. As inspirações (e a mão copiadora) tornam-se para os chargistas e cartunistas, como por exemplo [Laerte](http://www.instagram.com/laerteminotaura), [Andre Dahmer](http://www.instagram.com/andredahmer), [Pietro Soldi](http://www.instagram.com/pietro.soldi), [Walter Rego](http://www.instagram.com/waltinho.rego) e [The Far Side](http://www.thefarside.com).
 
 
 ## Quem faz o Bebi o Dicionário ##
