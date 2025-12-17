@@ -10,12 +10,11 @@ function HomepageHeader() {
   return (
     <header className={styles.heroBanner}>
       <div className="container">
-        <h1 className={styles.title}>{siteConfig.title}</h1>
+        <h2 className={styles.title}>{siteConfig.title}</h2>
         <p className={styles.subtitle}>{siteConfig.tagline}</p>
         <div className="col col--8 col--offset-2">
           <p style={{ fontSize: '1.4rem', fontWeight: '400', color: '#666', lineHeight: '1.8' }}>
             Bem-vindo ao <strong>Bebi o Dicionário</strong>.
-            Por sete anos essas piadas foram criadas soltas no Instagram. Daí as piadas morreram, mas passam bem. Uma Inteligência Artificial agora cuida de manter as piadas vivas.
           </p>
         </div>
         <div className={styles.buttons}>
@@ -23,13 +22,6 @@ function HomepageHeader() {
             className={clsx('button button--primary button--lg', styles.ctaButton)}
             to="/docs/category/o-grande-arquivo-de-piadas-enológicas">
             Entrar no Arquivo
-          </Link>
-        </div>
-        <div className={styles.buttons}>
-          <Link
-            className={clsx('button button--primary button--lg', styles.ctaButton)}
-            to="/docs">
-            O Que é Bebi o Dicionário?
           </Link>
         </div>
       </div>
@@ -117,6 +109,9 @@ export default function Home() {
         <div className="container margin-vert--lg text--center">
           <div className="row">
             <div className="col col--8 col--offset-2">
+              <p style={{ fontSize: '1.4rem', fontWeight: '400', color: '#666', lineHeight: '1.8' }}>
+                Por sete anos essas piadas foram criadas soltas no Instagram. Daí as piadas morreram, mas passam bem. Uma Inteligência Artificial agora cuida de manter as piadas vivas.
+              </p>
             </div>
           </div>
         </div>
