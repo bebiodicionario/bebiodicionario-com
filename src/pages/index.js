@@ -7,21 +7,7 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
-  return (
-    <header className={styles.heroBanner}>
-      <div className="container">
-        <h1 className={styles.title}>{siteConfig.title}</h1>
-        <p className={styles.subtitle}>{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className={clsx('button button--primary button--lg', styles.ctaButton)}
-            to="/docs/category/o-grande-arquivo-de-piadas-enológicas">
-            Entrar no Arquivo
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
+
 }
 
 function FeaturedPost() {
@@ -74,11 +60,6 @@ function FeaturedPost() {
             </div>
           )}
           <div className={styles.cardBody}>
-            <h3 className={clsx('text--center', styles.cardTitle)}>
-              <Link to={post.url} style={{ color: 'inherit', textDecoration: 'none' }}>
-                {post.title}
-              </Link>
-            </h3>
             {post.legend && (
               <div className="text--center margin-vert--md">
                 <p className={styles.cardLegend}>
@@ -113,6 +94,13 @@ export default function Home() {
                 Bem-vindo ao <strong>Bebi o Dicionário</strong>.
                 Por sete anos essas piadas foram criadas soltas no Instagram. Daí as piadas morreram, mas passam bem. Uma Inteligência Artificial agora cuida de manter as piadas vivas.
               </p>
+            </div>
+            <div className={styles.buttons}>
+              <Link
+                className={clsx('button button--primary button--lg', styles.ctaButton)}
+                to="/docs/category/o-grande-arquivo-de-piadas-enológicas">
+                Entrar no Arquivo
+              </Link>
             </div>
           </div>
         </div>
