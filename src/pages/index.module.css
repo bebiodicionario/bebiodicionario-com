@@ -1,5 +1,5 @@
 .heroBanner {
-    padding: 8rem 0 6rem;
+    padding: 4rem 0 1rem;
     text-align: center;
     position: relative;
     overflow: hidden;
@@ -12,7 +12,7 @@
 
 .title {
     font-family: 'bely-display', serif;
-    font-size: 5.5rem;
+    font-size: 3rem;
     line-height: 1.1;
     margin-bottom: 1.5rem;
     color: var(--ifm-color-primary-dark);
@@ -42,7 +42,7 @@
 /* Featured Section */
 .featuredSection {
     position: relative;
-    padding: 4rem 1rem;
+    padding: 0rem 1rem;
 }
 
 .sectionTitle {
