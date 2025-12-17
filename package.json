@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "docusaurus start --port 8080 --host 0.0.0.0",
-    "build": "docusaurus build",
+    "start": "node scripts/generate_metadata.js && docusaurus start --port 8080 --host 0.0.0.0",
+    "build": "node scripts/generate_metadata.js && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy"
   },

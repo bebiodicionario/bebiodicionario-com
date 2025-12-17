@@ -7,13 +7,12 @@ export default function Random() {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('/all-posts.json')
+        fetch('/posts-metadata.json')
             .then((response) => response.json())
             .then((posts) => {
                 if (posts.length > 0) {
                     const randomPost = posts[Math.floor(Math.random() * posts.length)];
-                    // Remove /docs/ prefix if present in the JSON, or ensure it's correct
-                    history.push(randomPost);
+                    history.push(randomPost.url);
                 } else {
                     setLoading(false);
                 }
