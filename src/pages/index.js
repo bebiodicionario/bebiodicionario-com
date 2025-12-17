@@ -25,6 +25,13 @@ function HomepageHeader() {
             Entrar no Arquivo
           </Link>
         </div>
+        <div className={styles.buttons}>
+          <Link
+            className={clsx('button button--primary button--lg', styles.ctaButton)}
+            to="/docs">
+            O Que é Bebi o Dicionário?
+          </Link>
+        </div>
       </div>
     </header>
   );
@@ -104,21 +111,7 @@ export default function Home() {
   return (
     <Layout
       title={`Início`}
-      description="Firulas visuais enófilas e humor refinado.">
-      <HomepageHeader />
-      <main>
-        <div className="container margin-vert--lg text--center">
-          <div className="row">
-            <div className="col col--8 col--offset-2">
-              <p style={{ fontSize: '1.4rem', fontWeight: '400', color: '#666', lineHeight: '1.8' }}>
-                Bem-vindo ao <strong>Bebi o Dicionário</strong>.
-                Por sete anos essas piadas foram criadas soltas no Instagram. Daí as piadas morreram, mas passam bem. Uma Inteligência Artificial agora cuida de manter as piadas vivas.
-              </p>
-            </div>
-          </div>
-        </div>
-        <FeaturedPost />
-      </main>
+      description="Firulas visuais enófilas ">
     </Layout>
   );
 }
