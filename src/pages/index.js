@@ -8,13 +8,13 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={styles.heroBanner}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className={styles.title}>{siteConfig.title}</h1>
+        <p className={styles.subtitle}>{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className={clsx('button button--primary button--lg', styles.ctaButton)}
             to="/docs/category/o-grande-arquivo-de-piadas-enológicas">
             Entrar no Arquivo
           </Link>
@@ -49,52 +49,48 @@ function FeaturedPost() {
       });
   }, []);
 
-  if (loading) return <div className="text--center margin-vert--xl">Carregando destaque...</div>;
+  if (loading) return (
+    <div className="text--center margin-vert--xl">
+      <div className="spinner-border text-primary" role="status"></div>
+      <p className="margin-top--sm text--muted">Carregando firulas visuais enófilas, microagressões oxidativas e enopolêmicas...</p>
+    </div>
+  );
+
   if (error || !post) return null;
 
   return (
-    <section className="margin-vert--xl fade-in">
-      <div className="container" style={{ maxWidth: '800px' }}>
-        <h2 className="text--center margin-bottom--lg" style={{ fontSize: '2rem' }}>Destaque do Momento</h2>
+    <section className={clsx('margin-vert--xl', styles.featuredSection)}>
+      <div className="container" style={{ maxWidth: '900px' }}>
+        <h2 className={styles.sectionTitle}>Uma piada aleatória para você</h2>
 
-        <div className="card shadow--lg" style={{ border: '1px solid var(--ifm-color-emphasis-200)' }}>
+        <div className={styles.featuredCard}>
           {post.image && (
-            <div className="card__image">
+            <div className={styles.cardImageContainer}>
               <img
                 src={post.image}
                 alt={post.title}
-                style={{
-                  width: '100%',
-                  maxHeight: '600px',
-                  objectFit: 'contain',
-                  backgroundColor: '#f5f5f5'
-                }}
+                className={styles.cardImage}
               />
             </div>
           )}
-          <div className="card__body padding--lg">
-            <h3 className="text--center margin-bottom--md" style={{ fontSize: '1.5rem' }}>
+          <div className={styles.cardBody}>
+            <h3 className={clsx('text--center', styles.cardTitle)}>
               <Link to={post.url} style={{ color: 'inherit', textDecoration: 'none' }}>
                 {post.title}
               </Link>
             </h3>
             {post.legend && (
-              <div className="text--center">
-                <p style={{
-                  fontSize: '1.25rem',
-                  fontStyle: 'italic',
-                  lineHeight: '1.6',
-                  color: 'var(--ifm-color-emphasis-700)'
-                }}>
+              <div className="text--center margin-vert--md">
+                <p className={styles.cardLegend}>
                   "{post.legend}"
                 </p>
               </div>
             )}
-          </div>
-          <div className="card__footer text--center padding-bottom--lg">
-            <Link to={post.url} className="button button--primary button--lg button--block">
-              Ver explicação completa
-            </Link>
+            <div className="text--center margin-top--lg">
+              <Link to={post.url} className={clsx('button button--outline button--primary button--lg', styles.ctaButton)}>
+                Ver explicação completa
+              </Link>
+            </div>
           </div>
         </div>
       </div>
@@ -107,15 +103,15 @@ export default function Home() {
   return (
     <Layout
       title={`Início`}
-      description="O maior arquivo de piadas enológicas da internet.">
+      description="Firulas visuais enófilas e humor refinado.">
       <HomepageHeader />
       <main>
-        <div className="container margin-vert--xl text--center">
+        <div className="container margin-vert--lg text--center">
           <div className="row">
             <div className="col col--8 col--offset-2">
-              <p style={{ fontSize: '1.5em', fontWeight: '300' }}>
-                Bem-vindo ao <strong>Bebi o Dicionário</strong>, o maior arquivo de piadas enológicas da internet.
-                Aqui catalogamos, explicamos e eternizamos as besteiras que eu posto no Instagram.
+              <p style={{ fontSize: '1.4rem', fontWeight: '400', color: '#666', lineHeight: '1.8' }}>
+                Bem-vindo ao <strong>Bebi o Dicionário</strong>.
+                Por sete anos essas piadas foram criadas soltas no Instagram. Daí as piadas morreram, mas passam bem. Uma Inteligência Artificial agora cuida de manter as piadas vivas.
               </p>
             </div>
           </div>
