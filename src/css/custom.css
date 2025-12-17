@@ -10,7 +10,7 @@
 @import url("https://use.typekit.net/mho4khg.css");
 
 :root {
-font-family: 'Work Sans', sans-serif;
+  font-family: 'Work Sans', sans-serif;
 
   --ifm-color-primary: #044cb5;
   --ifm-color-primary-dark: rgb(34, 41, 131);
@@ -23,10 +23,10 @@ font-family: 'Work Sans', sans-serif;
 
   --ifm-navbar-height: 4.5rem;
   --ifm-font-size-base: 100%;
-  --ifm-heading-font-family: inherit ;
+  --ifm-heading-font-family: inherit;
   --doc-sidebar-width: 400px !important;
 
-  --ifm-background-color: #f0f2f7 ;
+  --ifm-background-color: #f0f2f7;
   --ifm-navbar-background-color: #e8eaed;
   --ifm-card-background-color: #f0f2f7;
   --ifm-color-emphasis-200: #021b79;
@@ -55,7 +55,7 @@ img {
   max-height: 90vh;
 }
 
-div.col > div {
+div.col>div {
 
   display: flex;
   flex-flow: column nowrap;
@@ -69,22 +69,22 @@ article {
   order: 1;
 }
 
-article > div > button {
-  display:none !important;
+article>div>button {
+  display: none !important;
 }
 
 nav.docusaurus-mt-lg {
-   margin: 0 0 1rem 0 !important;
+  margin: 0 0 1rem 0 !important;
 
 }
 
 .margin-top--lg {
-        margin-top: 0rem !important;
-      }
+  margin-top: 0rem !important;
+}
 
 
 .navbar__title {
-  font-size:178%;
+  font-size: 100%;
   font-weight: 900 !important;
 
 }
@@ -100,14 +100,14 @@ nav.docusaurus-mt-lg {
   padding: 0 var(--ifm-pre-padding);
 }
 
-.theme-edit-this-page{
+.theme-edit-this-page {
   display: none;
 }
 
 
 .theme-doc-footer-tags-row {
-    font-size: 150%;
-  }
+  font-size: 150%;
+}
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
@@ -119,119 +119,181 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 
 .block-type-banner .block_inner {
-    max-width: none;
+  max-width: none;
 }
 
 .block_inner {
-    position: relative;
-    z-index: 2;
-    max-width: 1400px;
-    margin: 0;
-    padding-top: 1em;
+  position: relative;
+  z-index: 2;
+  max-width: 1400px;
+  margin: 0;
+  padding-top: 1em;
 
 }
 
 main .mega-title-link {
-    background-image: linear-gradient(to right, #0575e6, #021b79);
-    -webkit-background-clip: text;
-    background-clip: text;
-    text-decoration: none;
-    color: transparent;
-    display: inline-block;
-    background-size: 200% 200%;
-        -webkit-animation: Pulse 2s ease infinite;
-        -moz-animation: Pulse 2s ease infinite;
-        animation: Pulse 2s ease infinite;
-    }
+  background-image: linear-gradient(to right, #0575e6, #021b79);
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-decoration: none;
+  color: transparent;
+  display: inline-block;
+  background-size: 200% 200%;
+  -webkit-animation: Pulse 2s ease infinite;
+  -moz-animation: Pulse 2s ease infinite;
+  animation: Pulse 2s ease infinite;
+}
 
-    @-webkit-keyframes Pulse {
-        0%{background-position:0% 50%}
-        50%{background-position:100% 50%}
-        100%{background-position:0% 50%}
-    }
-    @-moz-keyframes Pulse {
-        0%{background-position:0% 50%}
-        50%{background-position:100% 50%}
-        100%{background-position:0% 50%}
-    }
-    @keyframes Pulse {
-        0%{background-position:0% 50%}
-        50%{background-position:100% 50%}
-        100%{background-position:0% 50%}
-    }
+@-webkit-keyframes Pulse {
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+@-moz-keyframes Pulse {
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+@keyframes Pulse {
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
+}
+
 main .mega-title-link:hover {
-    background-image: linear-gradient(to right, #c85a5a, #f68484);
-    color: transparent;
-    -webkit-background-clip: text;
-    background-clip: text;
-    background-size: 400% 400%;
+  background-image: linear-gradient(to right, #c85a5a, #f68484);
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-size: 400% 400%;
 
-    -webkit-animation: Pulse 2s ease infinite;
-    -moz-animation: Pulse 2s ease infinite;
-    animation: Pulse 2s ease infinite;
+  -webkit-animation: Pulse 2s ease infinite;
+  -moz-animation: Pulse 2s ease infinite;
+  animation: Pulse 2s ease infinite;
 
 }
 
 
 .mega-title {
-    margin: auto;
-    text-align: center;
-    font-family: bely-display, serif;
-    font-weight: 400;
-    font-size: 18vw;
-    line-height: 1;
-    padding-bottom: .15em}
+  margin: auto;
+  text-align: center;
+  font-family: bely-display, serif;
+  font-weight: 400;
+  font-size: 18vw;
+  line-height: 1;
+  padding-bottom: .15em
+}
+
 @media screen and (min-width: 666px) {
-    .mega-title {
-    font-size: 10vw}
+  .mega-title {
+    font-size: 10vw
+  }
 }
+
 @media screen and (min-width: 1024px) {
-    .mega-title {
-    font-size: 11.3vw}
+  .mega-title {
+    font-size: 11.3vw
+  }
 }
+
 @media screen and (min-width: 1440px) {
-    .mega-title {
-    font-size: 18vw}
+  .mega-title {
+    font-size: 18vw
+  }
 }
+
 @media screen and (min-width: 1600px) {
-    .mega-title {
+  .mega-title {
     font-size: 11em;
     max-width: 1560px;
-        }
+  }
 }
 
 
 
 .card {
-    background-image: linear-gradient(to right, #, #daeafd);
-    background-size: 400% 400%;
-        -webkit-animation: Pulse 5s linear  infinite;
-        -moz-animation: Pulse 8s linear  infinite;
-        animation: Pulse 8s linear  infinite;
-    }
+  background-image: linear-gradient(to right, #, #daeafd);
+  background-size: 400% 400%;
+  -webkit-animation: Pulse 5s linear infinite;
+  -moz-animation: Pulse 8s linear infinite;
+  animation: Pulse 8s linear infinite;
+}
 
-    @-webkit-keyframes Pulse {
-        0%{background-position:0% 50%}
-        50%{background-position:100% 50%}
-        100%{background-position:0% 50%}
-    }
-    @-moz-keyframes Pulse {
-        0%{background-position:0% 50%}
-        50%{background-position:100% 50%}
-        100%{background-position:0% 50%}
-    }
-    @keyframes Pulse {
-        0%{background-position:0% 50%}
-        50%{background-position:100% 50%}
-        100%{background-position:0% 50%}
-    }
+@-webkit-keyframes Pulse {
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+@-moz-keyframes Pulse {
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+@keyframes Pulse {
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
+}
+
 .card:hover {
-    background-image: linear-gradient(to right, #fddada, #f68484);
-    background-size: 400% 400%;
+  background-image: linear-gradient(to right, #fddada, #f68484);
+  background-size: 400% 400%;
 
-    -webkit-animation: Pulse 2s ease infinite;
-    -moz-animation: Pulse 2s ease infinite;
-    animation: Pulse 2s ease infinite;
+  -webkit-animation: Pulse 2s ease infinite;
+  -moz-animation: Pulse 2s ease infinite;
+  animation: Pulse 2s ease infinite;
 
 }
 
@@ -251,24 +313,27 @@ main .mega-title-link:hover {
 @-webkit-keyframes text-focus-in {
   0% {
     -webkit-filter: blur(12px);
-            filter: blur(12px);
+    filter: blur(12px);
     opacity: 0;
   }
+
   100% {
     -webkit-filter: blur(0px);
-            filter: blur(0px);
+    filter: blur(0px);
     opacity: 1;
   }
 }
+
 @keyframes text-focus-in {
   0% {
     -webkit-filter: blur(12px);
-            filter: blur(12px);
+    filter: blur(12px);
     opacity: 0;
   }
+
   100% {
     -webkit-filter: blur(0px);
-            filter: blur(0px);
+    filter: blur(0px);
     opacity: 1;
   }
 }
@@ -277,6 +342,6 @@ main .mega-title-link:hover {
 
 .hero {
   -webkit-animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
-	        animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+  animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
 
 }

@@ -60,23 +60,23 @@ const config = {
         title: 'BEBI O DICIONÁRIO',
 
         items: [
-          {
-            to: 'docs/category/o-grande-arquivo-de-piadas-enológicas',
-            activeBasePath: 'docs',
-            label: 'O Grande Arquivo de Piadas Enológicas',
-            position: 'left',
-          },
+          //          {
+          //            to: 'docs/category/o-grande-arquivo-de-piadas-enológicas',
+          //            activeBasePath: 'docs',
+          //            label: 'Arquivo',
+          //            position: 'left',
+          //          },
           {
             to: '/random',
             label: '🎲 Post Aleatório',
-            position: 'left',
+            position: 'right',
           },
           // {to: '/blog', label: 'Lojinha', position: 'left'},
-          {
-            href: 'https://instagram.com/bebiodicionario',
-            label: 'Instagram',
-            position: 'left',
-          },
+          //          {
+          //            href: 'https://instagram.com/bebiodicionario',
+          //            label: 'Instagram',
+          //            position: 'left',
+          //          },
         ],
       },
 
