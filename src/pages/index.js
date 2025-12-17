@@ -12,7 +12,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className={styles.title}>{siteConfig.title}</h1>
         <div className="col col--8 col--offset-2">
-          <p style={{ fontSize: '1.4rem', fontWeight: '400', color: '#666', lineHeight: '1.8' }}>
+          <p class="HomeDescription">
             Por sete anos, centenas de piadas sobre vinho foram criadas soltas no Instagram. Um dia, os neurônios responsáveis por elas morreram. Agora, uma Inteligência Artificial cuida de mantê-las vivas.
           </p>
         </div>

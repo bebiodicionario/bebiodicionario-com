@@ -11,8 +11,8 @@
 }
 
 .title {
-    font-family: 'bely-display', serif;
-    font-size: 3rem;
+    font-size: 2rem;
+    font-weight: 900;
     line-height: 1.1;
     margin-bottom: 1.5rem;
     color: var(--ifm-color-primary-dark);
@@ -46,12 +46,8 @@
 }
 
 .sectionTitle {
-    font-family: 'bely-display', serif;
-    font-size: 2.5rem;
+    font-size: 2rem;
     text-align: center;
-    color: var(--ifm-color-emphasis-800);
-    margin-bottom: 3rem;
-    opacity: 0.8;
 }
 
 .featuredCard {
