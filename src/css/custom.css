@@ -31,7 +31,21 @@
   --ifm-card-background-color: #f0f2f7;
   --ifm-color-emphasis-200: #021b79;
   --ifm-color-emphasis-300: #97a2c6;
+
+  --ifm-h1-font-size: 2rem;
 }
+
+@media (max-width: 996px) {
+
+  .colorModeToggle_DEke,
+  .footer__link-separator,
+  .navbar__item,
+  .sidebar_re4s,
+  .tableOfContents_bqdL {
+    display: inline-block;
+  }
+}
+
 
 /**
 div.container > div {
