@@ -111,7 +111,17 @@ export default function Home() {
   return (
     <Layout
       title={`Início`}
-      description="Firulas visuais enófilas ">
+      description="Firulas visuais enófilas e humor refinado.">
+      <HomepageHeader />
+      <main>
+        <div className="container margin-vert--lg text--center">
+          <div className="row">
+            <div className="col col--8 col--offset-2">
+            </div>
+          </div>
+        </div>
+        <FeaturedPost />
+      </main>
     </Layout>
   );
 }
