@@ -72,6 +72,7 @@ const config = {
             to: '/random',
             label: '🎲 Post Aleatório',
             position: 'right',
+            className: 'navbar-random-link',
           },
           // {to: '/blog', label: 'Lojinha', position: 'left'},
           //          {
