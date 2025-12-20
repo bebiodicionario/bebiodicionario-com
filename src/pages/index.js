@@ -1,101 +1,76 @@
 import React, { useState, useEffect } from 'react';
-import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from './index.module.css';
 
-function HomepageHeader() {
+function HomepageIntro() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={styles.heroBanner}>
-      <div className="container">
-        <h1 className={styles.title}>{siteConfig.title}</h1>
-        <div className="col col--8 col--offset-2">
-          <p class="HomeDesc">
-            Por sete anos, centenas de piadas sobre vinho foram criadas soltas no Instagram. Um dia, os neurônios responsáveis por elas morreram. Agora, uma Inteligência Artificial cuida de mantê-las vivas.
-          </p>
-        </div>
-        <div className={styles.buttons}>
-          <Link
-            className={clsx('button button--primary button--lg', styles.ctaButton)}
-            to="/docs/category/o-grande-arquivo-de-piadas-enológicas">
-            Entrar no Arquivo
-          </Link>
-          <Link
-            className={clsx('button button--secondary button--outline button--lg', styles.ctaButton)}
-            to="/docs">
-            O Que é o Bebi o Dicionário?
-          </Link>
-        </div>
+    <section className="container home-intro">
+      <p>
+        <strong>{siteConfig.title} </strong>
+        — Um arquivo digital de firulas visuais enófilas. 
+        <br />
+        <span style={{ opacity: 0.7 }}>
+          Preservando o humor do vinho através da inteligência artificial.
+        </span>
+      </p>
+      <div style={{ marginTop: '2rem' }}>
+        <Link
+          className="button"
+          to="/docs/category/o-grande-arquivo-de-piadas-enológicas">
+          Acessar Arquivo
+        </Link>
+        <Link
+          className="button"
+          to="/docs"
+          style={{ marginLeft: '1rem', border: 'none' }}>
+          Sobre
+        </Link>
       </div>
-    </header>
+    </section>
   );
 }
 
 function FeaturedPost() {
   const [post, setPost] = useState(null);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(false);
 
   useEffect(() => {
     fetch('/posts-metadata.json')
-      .then(res => {
-        if (!res.ok) throw new Error("Metadata not found");
-        return res.json();
-      })
+      .then(res => res.ok ? res.json() : [])
       .then(data => {
         if (data.length > 0) {
-          const random = data[Math.floor(Math.random() * data.length)];
-          setPost(random);
+          setPost(data[Math.floor(Math.random() * data.length)]);
         }
         setLoading(false);
       })
-      .catch(err => {
-        console.error(err);
-        setError(true);
-        setLoading(false);
-      });
+      .catch(() => setLoading(false));
   }, []);
 
-  if (loading) return (
-    <div className="text--center margin-vert--xl">
-      <div className="spinner-border text-primary" role="status"></div>
-      <p className="margin-top--sm text--muted">Carregando firulas visuais enófilas, microagressões oxidativas e enopolêmicas...</p>
-    </div>
-  );
-
-  if (error || !post) return null;
+  if (loading) return null;
+  if (!post) return null;
 
   return (
-    <section className={clsx('margin-vert--xl', styles.featuredSection)}>
-      <div className="container" style={{ maxWidth: '900px' }}>
-        <h2 className={styles.sectionTitle}>Uma piada aleatória para você</h2>
-
-        <div className={styles.featuredCard}>
+    <section className="container featured-section">
+      <div className="row">
+        <div className="col col--12">
           {post.image && (
-            <div className={styles.cardImageContainer}>
-              <img
-                src={post.image}
-                alt={post.title}
-                className={styles.cardImage}
-              />
-            </div>
-          )}
-          <div className={styles.cardBody}>
-            {post.legend && (
-              <div className="text--center margin-vert--md">
-                <p className={styles.cardLegend}>
-                  "{post.legend}"
-                </p>
-              </div>
-            )}
-            <div className="text--center margin-top--lg">
-              <Link to={post.url} className={clsx('button button--outline button--primary button--lg', styles.ctaButton)}>
-                Ver explicação completa
+            <div className="featured-image-container">
+              <Link to={post.url}>
+                <img
+                  src={post.image}
+                  alt={post.title}
+                  className="featured-image"
+                />
               </Link>
             </div>
-          </div>
+          )}
+          {post.legend && (
+            <p className="featured-legend">
+              {post.legend}
+            </p>
+          )}
         </div>
       </div>
     </section>
@@ -106,10 +81,12 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Início`}
+      title="Início"
       description="Firulas visuais enófilas e humor refinado.">
-      <HomepageHeader />
-      <FeaturedPost />
+      <main style={{ minHeight: '80vh', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+        <HomepageIntro />
+        <FeaturedPost />
+      </main>
     </Layout>
   );
 }

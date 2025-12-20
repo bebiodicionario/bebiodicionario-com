@@ -1,361 +1,169 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Minimalist Architectural Theme
+ * Ref: abrahachermann.com
  */
 
-/* You can override the default Infima variables here. */
-
-@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Work+Sans:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
-@import url("https://use.typekit.net/mho4khg.css");
+/* Import Inter font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
 
 :root {
-  font-family: 'Work Sans', sans-serif;
+  /* Typography */
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-font-size-base: 16px;
+  --ifm-line-height-base: 1.5;
+  --ifm-heading-font-weight: 500;
 
-  --ifm-color-primary: #044cb5;
-  --ifm-color-primary-dark: rgb(34, 41, 131);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
-  --ifm-code-font-size: 95%;
+  /* Colors - High Contrast B&W */
+  --ifm-color-primary: #000000;
+  --ifm-color-primary-dark: #000000;
+  --ifm-color-primary-darker: #000000;
+  --ifm-color-primary-darkest: #000000;
+  --ifm-color-primary-light: #444444;
+  --ifm-color-primary-lighter: #666666;
+  --ifm-color-primary-lightest: #888888;
 
-  --ifm-navbar-height: 4.5rem;
-  --ifm-font-size-base: 100%;
-  --ifm-heading-font-family: inherit;
-  --doc-sidebar-width: 400px !important;
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #ffffff;
+  --ifm-text-color: #000000;
+  --ifm-link-color: #000000;
+  --ifm-link-hover-color: #000000;
+  --ifm-link-decoration: underline;
 
-  --ifm-background-color: #f0f2f7;
-  --ifm-navbar-background-color: #e8eaed;
-  --ifm-card-background-color: #f0f2f7;
-  --ifm-color-emphasis-200: #021b79;
-  --ifm-color-emphasis-300: #97a2c6;
-
-  --ifm-h1-font-size: 2rem;
+  /* Layout Override */
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-navbar-height: 4rem;
+  --ifm-container-width: 1200px;
+  
+  /* Reset Infima Shadows/Radius for clean look */
+  --ifm-card-background-color: transparent;
+  --ifm-card-border-radius: 0;
+  --ifm-global-radius: 0;
+  --ifm-global-shadow-lw: none;
+  --ifm-global-shadow-md: none;
+  --ifm-global-shadow-tl: none;
 }
 
-@media (max-width: 996px) {
-
-  .colorModeToggle_DEke,
-  .footer__link-separator,
-  .navbar__item,
-  .sidebar_re4s,
-  .tableOfContents_bqdL {
-    display: inline-block;
-  }
+/* Dark Mode - Inverted Clean */
+html[data-theme='dark'] {
+  --ifm-color-primary: #ffffff;
+  --ifm-background-color: #000000;
+  --ifm-background-surface-color: #000000;
+  --ifm-text-color: #ffffff;
+  --ifm-link-color: #ffffff;
+  --ifm-navbar-background-color: #000000;
 }
 
-
-/**
-div.container > div {
-
-  display: flex;
-  flex-flow: column nowrap;
+/* Navbar */
+.navbar {
+  border-bottom: 1px solid #eee;
+  box-shadow: none;
+}
+html[data-theme='dark'] .navbar {
+  border-bottom: 1px solid #333;
 }
 
-footer > nav.pagination-nav {
-  order: 0;
+.navbar__brand {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
-div > main {
-  order: 2;
-}
-div > header {
-  order: 1;
-}
-**/
-img {
-  max-height: 90vh;
-}
-
-div.col>div {
-
-  display: flex;
-  flex-flow: column nowrap;
-}
-
-.pagination-nav {
-  order: 0;
-}
-
-article {
-  order: 1;
-}
-
-article>div>button {
-  display: none !important;
-}
-
-nav.docusaurus-mt-lg {
-  margin: 0 0 1rem 0 !important;
-
-}
-
-.margin-top--lg {
-  margin-top: 0rem !important;
-}
-
-
-.navbar__title {
-  font-size: 100%;
-  font-weight: 900 !important;
-
-}
-
-.docs-doc-page .container {
-  margin: 0;
-}
-
-.docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.1);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
-}
-
-.theme-edit-this-page {
-  display: none;
-}
-
-
-.theme-doc-footer-tags-row {
-  font-size: 150%;
-}
-
-html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.3);
-}
-
-.tabs {
-  font-size: 160%;
-}
-
-
-.block-type-banner .block_inner {
-  max-width: none;
-}
-
-.block_inner {
-  position: relative;
-  z-index: 2;
-  max-width: 1400px;
-  margin: 0;
-  padding-top: 1em;
-
-}
-
-main .mega-title-link {
-  background-image: linear-gradient(to right, #0575e6, #021b79);
-  -webkit-background-clip: text;
-  background-clip: text;
-  text-decoration: none;
-  color: transparent;
-  display: inline-block;
-  background-size: 200% 200%;
-  -webkit-animation: Pulse 2s ease infinite;
-  -moz-animation: Pulse 2s ease infinite;
-  animation: Pulse 2s ease infinite;
-}
-
-@-webkit-keyframes Pulse {
-  0% {
-    background-position: 0% 50%
-  }
-
-  50% {
-    background-position: 100% 50%
-  }
-
-  100% {
-    background-position: 0% 50%
-  }
-}
-
-@-moz-keyframes Pulse {
-  0% {
-    background-position: 0% 50%
-  }
-
-  50% {
-    background-position: 100% 50%
-  }
-
-  100% {
-    background-position: 0% 50%
-  }
-}
-
-@keyframes Pulse {
-  0% {
-    background-position: 0% 50%
-  }
-
-  50% {
-    background-position: 100% 50%
-  }
-
-  100% {
-    background-position: 0% 50%
-  }
-}
-
-main .mega-title-link:hover {
-  background-image: linear-gradient(to right, #c85a5a, #f68484);
-  color: transparent;
-  -webkit-background-clip: text;
-  background-clip: text;
-  background-size: 400% 400%;
-
-  -webkit-animation: Pulse 2s ease infinite;
-  -moz-animation: Pulse 2s ease infinite;
-  animation: Pulse 2s ease infinite;
-
-}
-
-
-.mega-title {
-  margin: auto;
-  text-align: center;
-  font-family: bely-display, serif;
+.navbar__item {
   font-weight: 400;
-  font-size: 18vw;
-  line-height: 1;
-  padding-bottom: .15em
+  font-size: 0.9rem;
 }
 
-@media screen and (min-width: 666px) {
-  .mega-title {
-    font-size: 10vw
-  }
+/* Footer */
+.footer {
+  background: #ffffff;
+  border-top: 1px solid #eee;
+  color: #000;
+}
+html[data-theme='dark'] .footer {
+  background: #000000;
+  border-top: 1px solid #333;
+  color: #fff;
 }
 
-@media screen and (min-width: 1024px) {
-  .mega-title {
-    font-size: 11.3vw
-  }
+/* General Layout Tweaks */
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
 }
 
-@media screen and (min-width: 1440px) {
-  .mega-title {
-    font-size: 18vw
-  }
+.container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
-@media screen and (min-width: 1600px) {
-  .mega-title {
-    font-size: 11em;
-    max-width: 1560px;
-  }
+/* Buttons - Minimalist Outline */
+.button {
+  border-radius: 0;
+  border: 1px solid currentColor;
+  background: transparent;
+  color: var(--ifm-text-color);
+  font-weight: 400;
+  text-decoration: none !important;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  padding: 0.5rem 1.5rem;
+  transition: all 0.2s ease;
 }
 
-
-
-.card {
-  background-image: linear-gradient(to right, #, #daeafd);
-  background-size: 400% 400%;
-  -webkit-animation: Pulse 5s linear infinite;
-  -moz-animation: Pulse 8s linear infinite;
-  animation: Pulse 8s linear infinite;
+.button:hover {
+  background: var(--ifm-text-color);
+  color: var(--ifm-background-color);
 }
 
-@-webkit-keyframes Pulse {
-  0% {
-    background-position: 0% 50%
-  }
-
-  50% {
-    background-position: 100% 50%
-  }
-
-  100% {
-    background-position: 0% 50%
-  }
+.button--primary {
+  /* Reset primary button specific styles to inherit the minimal style */
+  --ifm-button-background-color: transparent;
+  --ifm-button-color: var(--ifm-text-color);
+  border-color: var(--ifm-text-color);
 }
 
-@-moz-keyframes Pulse {
-  0% {
-    background-position: 0% 50%
-  }
-
-  50% {
-    background-position: 100% 50%
-  }
-
-  100% {
-    background-position: 0% 50%
-  }
+/* Homepage Specifics */
+.home-intro {
+  font-size: 1.5rem;
+  line-height: 1.4;
+  font-weight: 300;
+  max-width: 800px;
+  margin-bottom: 4rem;
 }
 
-@keyframes Pulse {
-  0% {
-    background-position: 0% 50%
-  }
-
-  50% {
-    background-position: 100% 50%
-  }
-
-  100% {
-    background-position: 0% 50%
-  }
+.featured-section {
+  margin-top: 4rem;
 }
 
-.card:hover {
-  background-image: linear-gradient(to right, #fddada, #f68484);
-  background-size: 400% 400%;
-
-  -webkit-animation: Pulse 2s ease infinite;
-  -moz-animation: Pulse 2s ease infinite;
-  animation: Pulse 2s ease infinite;
-
+.featured-image-container {
+  max-width: 100%;
+  margin-bottom: 1rem;
 }
 
-
-/* ----------------------------------------------
- * Generated by Animista on 2022-1-19 15:32:4
- * Licensed under FreeBSD License.
- * See http://animista.net/license for more info.
- * w: http://animista.net, t: @cssanimista
- * ---------------------------------------------- */
-
-/**
- * ----------------------------------------
- * animation text-focus-in
- * ----------------------------------------
- */
-@-webkit-keyframes text-focus-in {
-  0% {
-    -webkit-filter: blur(12px);
-    filter: blur(12px);
-    opacity: 0;
-  }
-
-  100% {
-    -webkit-filter: blur(0px);
-    filter: blur(0px);
-    opacity: 1;
-  }
+.featured-image {
+  max-height: 80vh; /* Allow large vertical space */
+  width: auto;
+  max-width: 100%;
+  display: block;
 }
 
-@keyframes text-focus-in {
-  0% {
-    -webkit-filter: blur(12px);
-    filter: blur(12px);
-    opacity: 0;
-  }
-
-  100% {
-    -webkit-filter: blur(0px);
-    filter: blur(0px);
-    opacity: 1;
-  }
+.featured-legend {
+  font-family: 'Times New Roman', Times, serif; /* Contrast font for "legend" feel */
+  font-size: 1.1rem;
+  font-style: italic;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  color: var(--ifm-color-emphasis-700);
 }
 
+/* Docs / Markdown Content */
+article h1 {
+  font-weight: 300;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
 
-
-.hero {
-  -webkit-animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
-  animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
-
+article img {
+  border-radius: 0;
 }

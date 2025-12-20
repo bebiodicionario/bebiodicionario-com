@@ -20,7 +20,7 @@ Este arquivo digital é, ele próprio, um experimento. O site foi criado e aband
 Boa parte do texto gerado foi revisado pelo autor original, mas pode conter alucinações, erros de análise ou interpretações exageradamente profundas de bobagens aleatórias. Curiosamente, o processo revelou camadas de sentido que até o próprio autor desconhecia, enquanto outras piadas permaneceram herméticas, protegidas por uma camada de ironia que (ainda) só humanos conseguem penetrar.
 
 ## Quem fez o Bebi o Dicionário ##
-[Pedro Kok](http://www.pedrokok.com), fotógrafo, arquiteto e ex-enófilo praticante. Autor de todo o conteúdo (junto com sua archiparceira @bebiodionossauro), hoje Pedro bebe principalmente água com gás e baldes de café coado.
+[Pedro Kok](http://www.pedrokok.com), fotógrafo, arquiteto e ex-enófilo praticante. Autor de todo o conteúdo (as vezes com ajuda de sua arquiparceira @bebiodionossauro), hoje Pedro bebe principalmente água com gás e baldes de café coado.
 
 ## História do Bebi o Dicionário ##
 
