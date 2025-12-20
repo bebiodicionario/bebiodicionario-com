@@ -9,10 +9,10 @@ function HomepageIntro() {
     <section className="container home-intro">
       <p>
         <strong>{siteConfig.title} </strong>
-        — Um arquivo digital de firulas visuais enófilas. 
+        — O grande arquivo digital do @bebiodicionario.
         <br />
         <span style={{ opacity: 0.7 }}>
-          Preservando o humor do vinho através da inteligência artificial.
+          Por sete anos, centenas de piadas sobre vinho foram criadas soltas no Instagram. Um dia, os neurônios responsáveis por elas morreram. Agora, uma Inteligência Artificial cuida de mantê-las vivas.
         </span>
       </p>
       <div style={{ marginTop: '2rem' }}>
@@ -25,7 +25,7 @@ function HomepageIntro() {
           className="button"
           to="/docs"
           style={{ marginLeft: '1rem', border: 'none' }}>
-          Sobre
+          O que é isso?
         </Link>
       </div>
     </section>
@@ -53,6 +53,11 @@ function FeaturedPost() {
 
   return (
     <section className="container featured-section">
+      <div className="row">
+        <div className="col col--12">
+          <strong>Uma piada aleatória para você:</strong>
+        </div>
+      </div>
       <div className="row">
         <div className="col col--12">
           {post.image && (
