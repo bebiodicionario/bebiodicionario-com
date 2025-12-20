@@ -55,7 +55,7 @@ function FeaturedPost() {
     <section className="container featured-section">
       <div className="row">
         <div className="col col--12">
-          <p><strong>UMA PIADA ALEATÓRIA</strong>
+          <strong>UMA PIADA ALEATÓRIA</strong>
         </div>
       </div>
       <div className="row">
@@ -72,11 +72,12 @@ function FeaturedPost() {
             </div>
           )}
           {post.legend && (
-            <p className="featured-legend">
+            <><p className="featured-legend">
               {post.legend}
-            </p>
+            </p><p>
+                <Link className="button" to={post.url}>Ver piada</Link>
+              </p></>
           )}
-          <Link to={post.url}>Ver explicação</Link>
         </div>
       </div>
     </section>
