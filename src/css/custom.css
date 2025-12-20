@@ -33,7 +33,7 @@
   --ifm-navbar-background-color: #ffffff;
   --ifm-navbar-height: 4rem;
   --ifm-container-width: 1200px;
-  
+
   /* Reset Infima Shadows/Radius for clean look */
   --ifm-card-background-color: transparent;
   --ifm-card-border-radius: 0;
@@ -58,6 +58,7 @@ html[data-theme='dark'] {
   border-bottom: 1px solid #eee;
   box-shadow: none;
 }
+
 html[data-theme='dark'] .navbar {
   border-bottom: 1px solid #333;
 }
@@ -79,6 +80,7 @@ html[data-theme='dark'] .navbar {
   border-top: 1px solid #eee;
   color: #000;
 }
+
 html[data-theme='dark'] .footer {
   background: #000000;
   border-top: 1px solid #333;
@@ -93,7 +95,22 @@ html[data-theme='dark'] .footer {
 
 .container {
   padding-top: 2rem;
-  padding-bottom: 2rem;
+}
+
+/* Move Pagination to Top */
+div.container>div {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+nav.pagination-nav {
+  order: -1;
+  /* Move to top */
+  margin-bottom: 2rem;
+  border-top: none;
+  border-bottom: 1px solid #eee;
+  /* Add divider below */
+  padding-bottom: 1rem;
 }
 
 /* Buttons - Minimalist Outline */
@@ -109,6 +126,33 @@ html[data-theme='dark'] .footer {
   letter-spacing: 0.05em;
   padding: 0.5rem 1.5rem;
   transition: all 0.2s ease;
+}
+
+/* Reduced Pagination Button Size */
+.pagination-nav__link {
+  border: 1px solid var(--ifm-color-primary-lightest);
+  /* Lighter border for pagination */
+  padding: 0.2rem 0.6rem;
+  /* Smaller padding */
+  font-size: 0.75rem;
+  /* Smaller font */
+  border-radius: 0;
+  background: transparent;
+}
+
+.pagination-nav__link:hover {
+  background: var(--ifm-text-color);
+  color: var(--ifm-background-color);
+  border-color: var(--ifm-text-color);
+}
+
+.pagination-nav__sublabel {
+  display: none;
+  /* Hide "Previous"/"Next" helper text for minimalism */
+}
+
+.pagination-nav__label {
+  font-weight: 500;
 }
 
 .button:hover {
@@ -142,14 +186,16 @@ html[data-theme='dark'] .footer {
 }
 
 .featured-image {
-  max-height: 80vh; /* Allow large vertical space */
+  max-height: 80vh;
+  /* Allow large vertical space */
   width: auto;
   max-width: 100%;
   display: block;
 }
 
 .featured-legend {
-  font-family: 'Times New Roman', Times, serif; /* Contrast font for "legend" feel */
+  font-family: 'Times New Roman', Times, serif;
+  /* Contrast font for "legend" feel */
   font-size: 1.1rem;
   font-style: italic;
   margin-top: 1rem;
@@ -166,4 +212,9 @@ article h1 {
 
 article img {
   border-radius: 0;
+}
+
+/* Hide "Edit this page" */
+.theme-edit-this-page {
+  display: none !important;
 }

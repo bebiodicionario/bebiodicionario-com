@@ -55,7 +55,7 @@ function FeaturedPost() {
     <section className="container featured-section">
       <div className="row">
         <div className="col col--12">
-          <strong>Uma piada aleatória para você:</strong>
+          <p><strong>UMA PIADA ALEATÓRIA</strong>
         </div>
       </div>
       <div className="row">
@@ -76,6 +76,7 @@ function FeaturedPost() {
               {post.legend}
             </p>
           )}
+          <Link to={post.url}>Ver explicação</Link>
         </div>
       </div>
     </section>
